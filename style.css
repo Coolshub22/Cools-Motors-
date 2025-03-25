@@ -35,6 +35,10 @@ nav ul li a {
     font-weight: bold;
 }
 
+h2 {
+    text-align: center;
+}
+
 #gallery {
     display: grid;
     border-radius: 10px;
@@ -96,6 +100,19 @@ nav ul li a {
     display:block;
     width: 100%;
     margin: 10px 0;
+}
+
+#booking-form button {
+    background-color: #222;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#booking-form button:hover {
+    background-color: #444;
 }
 
 

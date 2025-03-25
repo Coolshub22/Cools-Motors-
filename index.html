@@ -7,7 +7,39 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <header>
+        <h1>Cools Motors</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Gallery</a></li>
+                <li><a href="#">Search</a></li>
+                <li><a href="#">Booking</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id = "gallery">
+<h2>Car Gallery</h2>
+<div id = "car-list" class = "car-container"></div>
+    </section>
+
+    <section id = "search">
+        <h2>Search & Filter</h2>
+        <input type="text" id = "search-box" placeholder = "Search for a car...">
+    </section>
+
+    <section id = "car-details">
+        <h2>Car Details</h2>
+        <div id = "details-container"></div>
+    </section>
+
+    <section id = "booking"> <h2>Book a Car</h2>
+    <form id =  "booking-form">
+        <label for="car-select">Choose a Car:</label>
+        <select name="Select" id="car-select"></select>
+        <button type = "submit">Book Now</button>
+    </form>
+</section>
     <script src = "index.js"></script>
 </body>
 </html>

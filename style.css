@@ -20,8 +20,19 @@ header {
     font-weight: bold;
 }
 
-ul {
+ nav ul {
     list-style-type: none;
+}
+
+ nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 #gallery {
@@ -30,17 +41,22 @@ ul {
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     transition: transform 0.3s;
+    gap: 20px;
+    padding: 20px;
 }
 
 .car-container {
-    background: white;
+    background-color: white;
     border-radius: 10px;
+    padding: 10px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     transition: transform 0.3s;
+    text-align: center;
 }
 
 .car-container:hover {
     transform: scale(1.10);
 }
+
 

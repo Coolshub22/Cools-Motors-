@@ -3,7 +3,8 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function getCars() {
-    fetch("https://freetestapi.com/api/v1/cars")
+    
+    fetch("https://myfakeapi.com/api/cars/")
     .then(response=> response.json())
     .then(cars => {
         allCars = cars;
@@ -16,7 +17,7 @@ function getCars() {
 function showGallery(cars) {
     let gallery = document.getElementById("car-list");
     gallery.innerText ="";
-
+console.log(cars)
     cars.forEach(car => {
         let carItem = document.createElement("div");
         carItem.className.add("car-item");
@@ -29,6 +30,22 @@ function showGallery(cars) {
         gallery.appendChild(carItem);
     })
 };
+
+document.getElementById("search-box").addEventListener("input", searchCars);
+
+function searchCars() {
+    const searchTerm = document.getElementById("search-box").value.toLowerCase();
+    fetch("https://myfakeapi.com/api/cars/")
+    .then(response => response.json())
+    .then(cars => {
+        const filteredCars = cars.filter(car =>
+            car.brand.toLowerCase().includes(searchTerm) ||
+            car.model.toLowerCase().includes(searchTerm)
+        );
+        displayCars(filteredCars);
+    })
+    .catch(error => console.error("Error searching cars", error));
+}
 
 function showCarDetails(carId) {
     let car = allCars.find(c => c.id === carId);

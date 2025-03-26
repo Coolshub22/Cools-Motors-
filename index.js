@@ -30,3 +30,17 @@ function showGallery(cars) {
     })
 };
 
+function showCarDetails(carId) {
+    let car = allCars.find(c => c.id === carId);
+
+    let detailsContainer = document.getElementById("details-container");
+
+    detailsContainer.innerText = `
+    <h3>${car.make} ${car.model}</h3>
+    <p><strong>Year:</strong> ${car.year}</p>
+    <p><strong>Color:</strong> ${car.color}</p>
+    <p><strong>Engine:</strong> ${car.engine}</p>
+    <p><strong>Price:</strong> ${car.price}</p>`;
+}
+
+

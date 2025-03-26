@@ -43,4 +43,14 @@ function showCarDetails(carId) {
     <p><strong>Price:</strong> ${car.price}</p>`;
 }
 
+function fillCarDropdown(cars) {
+    let select = document.getElementById("car-select");
+    select.innerText = "";
 
+    cars.forEach(car => {
+        let option = document.createElement("option");
+        option.value = car.id;
+        option.innerText = `${car.make} ${car.model}`;
+        select.appendChild(option);
+    });
+}

@@ -1,0 +1,69 @@
+{
+    "cars": [
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "engine": "2.5L Inline-4",
+        "price": {
+          "msrp": 25000,
+          "currency": "USD"
+        },
+        "color": "White",
+        "bodyStyle": "Sedan",
+        "images": [
+          "https://example.com/toyota_camry_1.jpg",
+          "https://example.com/toyota_camry_2.jpg"
+        ]
+      },
+      {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "engine": "5.0L V8",
+        "price": {
+          "msrp": 38000,
+          "currency": "USD"
+        },
+        "color": "Red",
+        "bodyStyle": "Coupe",
+        "images": [
+          "https://example.com/ford_mustang_1.jpg",
+          "https://example.com/ford_mustang_2.jpg"
+        ]
+      },
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2023,
+        "engine": "1.5L Inline-4 Turbo",
+        "price": {
+          "msrp": 23000,
+          "currency": "USD"
+        },
+        "color": "Blue",
+        "bodyStyle": "Hatchback",
+        "images": [
+          "https://example.com/honda_civic_1.jpg",
+          "https://example.com/honda_civic_2.jpg"
+        ]
+      },
+      // ... (997 more car objects)
+      {
+        "make": "Volkswagen",
+        "model": "Golf",
+        "year": 2020,
+        "engine": "2.0L Inline-4 Turbo",
+        "price": {
+          "msrp": 28000,
+          "currency": "USD"
+        },
+        "color": "Gray",
+        "bodyStyle": "Hatchback",
+        "images": [
+          "https://example.com/volkswagen_golf_1.jpg",
+          "https://example.com/volkswagen_golf_2.jpg"
+        ]
+      }
+    ]
+  }

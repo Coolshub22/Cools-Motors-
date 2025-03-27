@@ -42,9 +42,7 @@
             "color": "Black",
             "bodyStyle": "Sedan",
             "images": [
-            "https://www.atocars.com/storage/uploads/194653/toyota-camry-gle-2-5l-petrol-fwd-2022-model-year-white-color-1706697393.jpeg",
-            "https://www.dsf.my/wp-content/uploads/2023/09/2022-Toyota-Camry-2.5-V-Review-Photos-4.jpeg",
-            "https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3138/"
+              "https://images.hgmsites.net/med/2022-toyota-corolla_100813675_m.jpg"
             ],
             "availability": true
         },
@@ -66,9 +64,7 @@
             "color": "Blue",
             "bodyStyle": "SUV",
             "images": [
-            "https://www.atocars.com/storage/uploads/194653/toyota-camry-gle-2-5l-petrol-fwd-2022-model-year-white-color-1706697393.jpeg",
-            "https://www.dsf.my/wp-content/uploads/2023/09/2022-Toyota-Camry-2.5-V-Review-Photos-4.jpeg",
-            "https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3138/"
+              "https://www.motortrend.com/uploads/2021/11/2022_Toyota_RAV4_XSE_001.jpg"  
             ],
             "availability": true
         },
@@ -90,9 +86,7 @@
             "color": "Black",
             "bodyStyle": "SUV",
             "images": [
-              "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_674,q_auto:good,w_1200/v1/cms/uploads/qibx3b20fbfflzqzlazr",
-              "https://di-uploads-pod2.dealerinspire.com/4seasonsbmw/uploads/2023/05/2024-bmw-x5-interior-dashboard.jpg",
-              "https://media.ed.edmunds-media.com/bmw/x5/2023/oem/2023_bmw_x5_4dr-suv_m50i_fq_oem_1_1280.jpg"
+             "https://www.carscoops.com/wp-content/uploads/2023/09/MD_Prior-Design_BMW_G05_X5-1s.jpg"
             ],
             "availability": false
           },
@@ -114,9 +108,7 @@
             "color": "Silver",
             "bodyStyle": "Sedan",
             "images": [
-              "https://media.evo.co.uk/image/private/s--D-m0kYOQ--/f_auto,t_content-image-full-desktop@1/v1667892265/evo/2024-mercedes-benz-c-class-02.jpg",
-              "https://www.motortrend.com/uploads/2022/01/2022-Mercedes-Benz-C-Class-17.jpg",
-              "https://www.cstatic-images.com/car-pictures/xl/usd00mbc242c021001.png"
+              "https://vehicle-images.dealerinspire.com/078d-110010398/W1KAF4HB3RR215872/336f736c66be3702afdc669f5a8f7022.jpg"
             ],
             "availability": true
           },
@@ -138,9 +130,7 @@
             "color": "Red",
             "bodyStyle": "Coupe",
             "images": [
-              "https://hips.hearstapps.com/hmg-prod/images/2023-ford-mustang-101-1659554881.jpg",
-              "https://cdn.motor1.com/images/mgl/p6MMV/s1/2023-ford-mustang-gt.jpg",
-              "https://st.motortrend.com/uploads/sites/10/2022/09/2023-Ford-Mustang-2.jpg"
+              "https://cdn.motor1.com/images/mgl/qA41G/s1/ford-mustang-shelby-gt500-code-orange-front-low.jpg"
             ],
             "availability": true
           },
@@ -186,7 +176,7 @@
             "color": "Gray",
             "bodyStyle": "Sedan",
             "images": [
-              "https://www.cstatic-images.com/car-pictures/xl/usd00hoc241b021001.png"
+              "https://dealerimages.dealereprocess.com/image/upload/2891460.jpg"
             ],
             "availability": true
           },
@@ -208,7 +198,7 @@
             "color": "White",
             "bodyStyle": "SUV",
             "images": [
-              "https://images.cars.com/cldstatic/wp-content/uploads/2023-Audi-Q7-01.jpg"
+              "https://vehicle-images.dealerinspire.com/dfa8-11001464/thumbnails/large/WA1LXBF70PD010341/aaa0c7864f83bd7b50fc6fa98aa4e82c.jpg"
             ],
             "availability": true
           },
@@ -230,7 +220,7 @@
             "color": "Yellow",
             "bodyStyle": "Coupe",
             "images": [
-              "https://www.motortrend.com/uploads/sites/5/2023/03/2024-Chevrolet-Corvette-E-Ray-003.jpg"
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoj7b9aSX7Epj0YKC4pR2wC8yPG-kBM6b07A&s=10"
             ],
             "availability": false
           },
@@ -252,7 +242,7 @@
             "color": "Blue",
             "bodyStyle": "Sedan",
             "images": [
-              "https://www.cstatic-images.com/car-pictures/xl/usd00nis241c021001.png"
+              "https://hips.hearstapps.com/hmg-prod/images/2023-nissan-altima-113-1654783718.jpg?crop=0.816xw:0.689xh;0.0798xw,0.242xh&resize=2048:*"
             ],
             "availability": true
           },
@@ -296,7 +286,7 @@
             "color": "Green",
             "bodyStyle": "Coupe",
             "images": [
-              "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2022/09_16_huracan_sterrato/huracan_sterrato_cover.jpg"
+              "https://i.ytimg.com/vi/5ugG2CtcjYw/maxresdefault.jpg"
             ],
             "availability": true
           },
@@ -318,7 +308,7 @@
             "color": "Orange",
             "bodyStyle": "Coupe",
             "images": [
-              "https://cdn.motor1.com/images/mgl/3Jq6B/s1/jaguar-f-type-r75.jpg"
+              "https://spots.ag/2023/09/03/jaguar-f-type-p450-coupe-2020-c587703092023125219_1.jpg"
             ],
             "availability": false
           },
@@ -340,7 +330,7 @@
             "color": "Silver",
             "bodyStyle": "SUV",
             "images": [
-              "https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/tucson/gallery/Hyundai_Tucson_2024.jpg"
+              "https://carselectionbd.com/wp-content/uploads/2024/04/2024-Hyundai-Tucson-4-1110x577.jpg"
             ],
             "availability": true
           },
@@ -362,7 +352,7 @@
             "color": "Blue",
             "bodyStyle": "SUV",
             "images": [
-              "https://www.mazda.com/en/assets/cars/mazda-cx-5/2024/mazda-cx-5-2024-overview.jpg"
+              "https://vehicle-images.dealerinspire.com/3a62-110005349/JM3KFBEL2R0430865/29629eac5246014fd94004da41dfddea.jpg"
             ],
             "availability": true
           },
@@ -384,7 +374,7 @@
             "color": "Red",
             "bodyStyle": "Hatchback",
             "images": [
-              "https://www.vw.com/content/dam/vw-ngw/vw_pkw/importers/us/models/golf-gti/2024/model/2024-golf-gti-model-card.jpg"
+              "https://images.carexpert.com.au/resize/3000/-/app/uploads/2023/01/2023-Volkswagen-Golf-GTI-37.jpg"
             ],
             "availability": true
           },
@@ -406,7 +396,7 @@
             "color": "Green",
             "bodyStyle": "Wagon",
             "images": [
-              "https://www.subaru.com/content/dam/subaru/vehicles/2024/OBK/trim-hero-mobile.jpg"
+              "https://di-uploads-pod47.dealerinspire.com/brandontomessubaru/uploads/2023/05/mlp-img-ext-2024-outback.jpg"
             ],
             "availability": true
           },
@@ -428,7 +418,7 @@
             "color": "White",
             "bodyStyle": "SUV",
             "images": [
-              "https://www.kia.com/us/content/dam/kia/us/en/vehicles/2024/sorento/overview/2024-sorento-hero.jpg"
+              "https://vehicle-images.dealerinspire.com/5e7b-110004265/5XYRLDJCXRG265045/3b523c8710aad5a20dc2ebf0fe2b3f00.jpg"
             ],
             "availability": true
           },
@@ -450,7 +440,7 @@
             "color": "Red",
             "bodyStyle": "Coupe",
             "images": [
-              "https://www.ferrari.com/images/fill-1920x1080-car-color/Ferrari-F8-Tributo-01.jpg"
+              "https://spots.ag/2023/01/28/ferrari-f8-tributo-c690728012023192402_1.jpg"
             ],
             "availability": false
           },
@@ -472,7 +462,7 @@
             "color": "Gray",
             "bodyStyle": "SUV",
             "images": [
-              "https://www.volvocars.com/images/fill-1920x1080/volvo-xc90-2024.jpg"
+              "https://autoimage.capitalone.com/cms/Auto/assets/images/2917-hero-2024-Volvo-XC90-Recharge-Ultimate-Gray-Front-Quarter-Left.jpg"
             ],
             "availability": true
           },
@@ -494,7 +484,7 @@
             "color": "Blue",
             "bodyStyle": "Sedan",
             "images": [
-              "https://www.maserati.com/images/fill-1920x1080/maserati-ghibli-2024.jpg"
+              "https://inv.assets.sincrod.com/2/3/7/32861720732.jpg"
             ],
             "availability": false
           },
@@ -516,7 +506,7 @@
             "color": "Yellow",
             "bodyStyle": "Coupe",
             "images": [
-              "https://www.porsche.com/content/dam/porsche/911-turbo-s/2024/911-turbo-s-yellow.jpg"
+              "https://www.motortrend.com/uploads/2022/04/2022-Porsche-911-Turbo-S-Lightweight-02.jpg"
             ],
             "availability": true
           },
@@ -538,7 +528,7 @@
             "color": "Black",
             "bodyStyle": "Sedan",
             "images": [
-              "https://www.tesla.com/sites/default/files/models/model-s/2024/tesla-model-s-plaid.jpg"
+              "https://unpluggedperformance.com/wp-content/uploads/2022/01/Black-Tesla-Model-S-Plaid-With-UP-Carbon-Ceramic-Big-Brake-Kit-Featured-Image-1.jpg"
             ],
             "availability": true
           },
@@ -560,7 +550,7 @@
             "color": "Orange",
             "bodyStyle": "SUV",
             "images": [
-              "https://www.ford.com/cmslibs/content/dam/ford/bronco-raptor/2024/ford-bronco-raptor-orange.jpg"
+              "https://bringatrailer.com/wp-content/uploads/2024/01/2023_ford_bronco-raptor_2023_ford_bronco-raptor_ec107a82-3cac-45b7-8dca-7c3d85de6c6d-eemzk1-39513-53217.jpg"
             ],
             "availability": false
           },
@@ -582,7 +572,7 @@
             "color": "Red",
             "bodyStyle": "Coupe",
             "images": [
-              "https://www.chevrolet.com/corvette-z06/2024/chevrolet-corvette-z06.jpg"
+              "https://media.carsandbids.com/cdn-cgi/image/width=2080,quality=70/ea93686cb7f6bba23b9693c4dac92c0715d7c4cd/photos/3zwYd8dK-12oijzx0X6-(edit).jpg?"
             ],
             "availability": true
           },
@@ -604,7 +594,7 @@
             "color": "Silver",
             "bodyStyle": "Luxury Sedan",
             "images": [
-              "https://www.rolls-roycemotorcars.com/content/dam/rolls-royce/phantom/2024/rolls-royce-phantom.jpg"
+              "https://www.goldcoastautogallery.com/galleria_images/11128/11128_p2_l.jpg"
             ],
             "availability": true
           },
@@ -626,7 +616,7 @@
             "color": "Volcano Orange",
             "bodyStyle": "Coupe",
             "images": [
-              "https://www.mclaren.com/765lt-2024/mclaren-765lt-orange.jpg"
+              "https://www.alastairbols.com/wp-content/uploads/2024/06/McLaren-765LT-SPIDER-MSO-Volcano-Orange-6-of-14.jpg"
             ],
             "availability": true
           },
@@ -648,7 +638,7 @@
             "color": "Isle of Man Green",
             "bodyStyle": "Coupe",
             "images": [
-              "https://www.bmwusa.com/content/dam/bmw/vehicles/m4-competition-xdrive/2024/bmw-m4-green.jpg"
+              "https://cdn.dicklovett.co.uk/uploads/used_stock_image/1_2142698_e.jpg?"
             ],
             "availability": true
           },
@@ -670,7 +660,7 @@
             "color": "Nardo Gray",
             "bodyStyle": "Sedan",
             "images": [
-              "https://www.audiusa.com/content/dam/audi/rs7-sportback/2024/audi-rs7-gray.jpg"
+              "https://media.drive.com.au/obj/tx_q:50,rs:auto:1920:1080:1/driveau/upload/cms/uploads/xp0gqhbpzcio4dnyp1sq"
             ],
             "availability": false
           },
@@ -692,7 +682,7 @@
             "color": "Solar Beam Yellow",
             "bodyStyle": "Coupe",
             "images": [
-              "https://www.mercedes-amg.com/content/dam/mercedes-amg-gt-black-series/2024/amg-gt-black-yellow.jpg"
+              "https://spots.ag/2023/04/17/mercedes-amg-gt-black-series-c190-c677117042023102332_1.jpg"
             ],
             "availability": true
           },
@@ -714,7 +704,7 @@
             "color": "Infrared",
             "bodyStyle": "Coupe",
             "images": [
-              "https://www.lexus.com/content/dam/lexus/lc500/2024/lexus-lc500-red.jpg"
+              "https://tmna.aemassets.toyota.com/is/image/toyota/lexus/images/models/lc/2024/technology/Lexus-LC-lexus-intuitive-parking-assist-moretechnology-tile-550X411-LEX-LC5-MY24-0034.jpg"
             ],
             "availability": true
           },
@@ -736,7 +726,7 @@
             "color": "Black",
             "bodyStyle": "SUV",
             "images": [
-              "https://toyotakenya.com/wp-content/uploads/2022/07/Toyota-Land-Cruiser-300.jpg"
+              "https://i.ytimg.com/vi/HQgtrdkN8NE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLButeZx8PKAlSYvlZilsR_7k7Mskw"
             ],
             "availability": true
           },
@@ -758,7 +748,7 @@
             "color": "White",
             "bodyStyle": "Pickup",
             "images": [
-              "https://www.nissankenya.com/images/navara-white.jpg"
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2024_Nissan_Navara_2.5_Pro-4X_in_Aspen_Pearl_White%2C_06-09-2024.jpg/1280px-2024_Nissan_Navara_2.5_Pro-4X_in_Aspen_Pearl_White%2C_06-09-2024.jpg"
             ],
             "availability": true
           },
@@ -780,7 +770,7 @@
             "color": "Silver",
             "bodyStyle": "SUV",
             "images": [
-              "https://www.mercedes-benz.co.ke/gle-suv.jpg"
+              "https://images.clickdealer.co.uk/vehicles/3041/3041410/full/63384710.jpg"
             ],
             "availability": true
           },
@@ -802,7 +792,7 @@
             "color": "Blue",
             "bodyStyle": "SUV",
             "images": [
-              "https://www.volkswagen.co.ke/touareg-blue.jpg"
+              "https://www.milescontinental.co.nz/wp-content/uploads/2024/02/vw-touareg-phev-600.jpg"
             ],
             "availability": true
           },
@@ -824,7 +814,7 @@
             "color": "White",
             "bodyStyle": "SUV",
             "images": [
-              "https://toyotakenya.com/wp-content/uploads/2022/07/Toyota-Harrier.jpg"
+              "https://motoroctane.com/wp-content/uploads/2023/12/1-21.jpg"
             ],
             "availability": true
           },
@@ -846,7 +836,7 @@
               "color": "Silver",
               "bodyStyle": "Sedan",
               "images": [
-                "https://www.magarideals.com/public/storage/media/images/premio/3495/0496b010026b01c890353d203bf3d3a5033638b81.jpeg"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_uAyBBrHXodFX7dGsMe-eMqxI8VGOJ1HYw&s"
               ],
               "availability": true
             },
@@ -890,7 +880,7 @@
               "color": "Green",
               "bodyStyle": "SUV",
               "images": [
-                "https://www.cnet.com/a/img/resize/faff16be2fa821e77614093a174aaafedf4a6588/hub/2022/10/03/6b0d2eef-97b7-4409-92ab-74b50b8821bf/2023-subaru-forester-ogi.jpg"
+                "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1078702682/81303bd7-f21d-4d6f-8f0f-87271416dd53/6aeb1830-3c8d-4170-9a49-5a71c3470b5d/1920x1080/match/image.jpg"
               ],
               "availability": true
             },
@@ -1067,7 +1057,7 @@
                       "color": "Silver",
                       "bodyStyle": "Pickup",
                       "images": [
-                        "https://example.com/toyota-hilux-2024.jpg"
+                        "https://i.ytimg.com/vi/oGK1jtHGB3c/maxresdefault.jpg"
                       ],
                       "availability": true
                     },
@@ -1089,7 +1079,7 @@
                       "color": "Dark Blue",
                       "bodyStyle": "SUV",
                       "images": [
-                        "https://example.com/subaru-forester-xt-2024.jpg"
+                        "https://di-uploads-pod21.dealerinspire.com/subaruofpembrokepines/uploads/2023/11/mlp-img-perf-2024-forester.jpg"
                       ],
                       "availability": true
                     },
@@ -1111,7 +1101,7 @@
                       "color": "Grey",
                       "bodyStyle": "SUV",
                       "images": [
-                        "https://example.com/ford-everest-2024.jpg"
+                        "https://d2s8i866417m9.cloudfront.net/photo/18507095/photo/medium-dce0dff65604ff970b7ad11cb942e28e.jpg"
                       ],
                       "availability": true
                     },
@@ -1133,7 +1123,7 @@
                     "color": "Black",
                     "bodyStyle": "Pickup",
                     "images": [
-                    "https://example.com/isuzu-dmax-vcross-2024.jpg"
+                    "https://img.cdn.dragon2000.net/C3726/U89/IMG_1913-large.jpg"
                     ],
                     "availability": true
                 },
@@ -1155,7 +1145,7 @@
                     "color": "White",
                     "bodyStyle": "SUV",
                     "images": [
-                    "https://example.com/porsche-cayenne-2024.jpg"
+                    "https://media.ed.edmunds-media.com/porsche/cayenne-coupe/2024/oem/2024_porsche_cayenne-coupe_4dr-suv_e-hybrid_fq_oem_1_1600.jpg"
                     ],
                     "availability": true
                 },
@@ -1177,7 +1167,7 @@
                       "color": "Pearl White",
                       "bodyStyle": "SUV",
                       "images": [
-                        "https://example.com/toyota-rav4-2024.jpg"
+                        "https://img.sm360.ca/images/article/dilawri-group-of-companies/124209//exterior-31705410075702.jpg"
                       ],
                       "availability": true
                     },
@@ -1199,7 +1189,7 @@
                       "color": "Silver",
                       "bodyStyle": "SUV",
                       "images": [
-                        "https://example.com/honda-crv-2024.jpg"
+                        "https://lp-auto-assets.s3.amazonaws.com/24/honda/cr-v/m3/header.jpg"
                       ],
                       "availability": true
                     },
@@ -1397,7 +1387,7 @@
                           "color": "Orange",
                           "bodyStyle": "Off-Road SUV",
                           "images": [
-                            "https://www.bronco6g.com/forum/attachments/code-orange-jpg."
+                            "https://www.motortrend.com/uploads/2022/08/2023-Ford-Bronco-Heritage-Edition-red-6.jpg"
                           ],
                           "availability": true
                         },
@@ -1551,7 +1541,7 @@
                             "color": "Yellow",
                             "bodyStyle": "Sports Car",
                             "images": [
-                              "https://preview.redd.it/2025-e-ray-competition-yellow-v0-md9cydu0lc1e1.jpeg"
+                              "https://media.ed.edmunds-media.com/chevrolet/corvette/2024/oem/2024_chevrolet_corvette_coupe_z06_fq_oem_1_1600.jpg"
                             ],
                             "availability": true
                           },

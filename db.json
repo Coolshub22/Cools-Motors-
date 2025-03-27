@@ -5,8 +5,8 @@
         "model": "Camry",
         "year": 2022,
         "price": {
-          "msrp": 25000,
-          "currency": "USD"
+          "msrp": 3235000,
+          "currency": "KES"
         },
         "specifications": {
             "engine": "2.5L Inline-4",
@@ -29,8 +29,8 @@
             "model": "Corolla",
             "year": 2022,
             "price": {
-            "msrp": 20000,
-            "currency": "USD"
+            "msrp": 2000000,
+            "currency": "KES"
             },
             "specifications": {
                 "engine": "1.8L Inline-4",
@@ -53,8 +53,8 @@
             "model": "RAV4",
             "year": 2022,
             "price": {
-            "msrp": 30000,
-            "currency": "USD"
+            "msrp": 3000000,
+            "currency": "KES"
             },
             "specifications": {
                 "engine": "2.5L Inline-4",
@@ -77,8 +77,8 @@
             "model": "X5",
             "year": 2023,
             "price": {
-              "msrp": 65000,
-              "currency": "USD"
+              "msrp": 6500000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "3.0L Turbocharged I6",
@@ -101,8 +101,8 @@
             "model": "C-Class",
             "year": 2024,
             "price": {
-              "msrp": 45000,
-              "currency": "USD"
+              "msrp": 4500000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "2.0L Turbocharged I4",
@@ -125,8 +125,8 @@
             "model": "Mustang",
             "year": 2023,
             "price": {
-              "msrp": 55000,
-              "currency": "USD"
+              "msrp": 5500000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "5.0L V8",
@@ -149,8 +149,8 @@
             "model": "Model S",
             "year": 2024,
             "price": {
-              "msrp": 79990,
-              "currency": "USD"
+              "msrp": 7999000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "Dual Electric Motors",
@@ -173,8 +173,8 @@
             "model": "Civic",
             "year": 2023,
             "price": {
-              "msrp": 24000,
-              "currency": "USD"
+              "msrp": 2400000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "1.5L Turbocharged I4",
@@ -195,8 +195,8 @@
             "model": "Q7",
             "year": 2023,
             "price": {
-              "msrp": 72000,
-              "currency": "USD"
+              "msrp": 7200000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "3.0L Turbocharged V6",
@@ -217,8 +217,8 @@
             "model": "Corvette",
             "year": 2024,
             "price": {
-              "msrp": 70000,
-              "currency": "USD"
+              "msrp": 7000000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "6.2L V8",
@@ -239,8 +239,8 @@
             "model": "Altima",
             "year": 2023,
             "price": {
-              "msrp": 28000,
-              "currency": "USD"
+              "msrp": 2800000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "2.5L Inline-4",
@@ -261,8 +261,8 @@
             "model": "911",
             "year": 2024,
             "price": {
-              "msrp": 110000,
-              "currency": "USD"
+              "msrp": 11000000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "3.0L Twin-Turbocharged Flat-6",
@@ -283,8 +283,8 @@
             "model": "Huracán",
             "year": 2024,
             "price": {
-              "msrp": 210000,
-              "currency": "USD"
+              "msrp": 21000000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "5.2L V10",
@@ -305,8 +305,8 @@
             "model": "F-Type",
             "year": 2023,
             "price": {
-              "msrp": 73000,
-              "currency": "USD"
+              "msrp": 7300000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "5.0L Supercharged V8",
@@ -327,8 +327,8 @@
             "model": "Tucson",
             "year": 2024,
             "price": {
-              "msrp": 29000,
-              "currency": "USD"
+              "msrp": 2900000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "2.5L Inline-4",
@@ -349,8 +349,8 @@
             "model": "CX-5",
             "year": 2024,
             "price": {
-              "msrp": 28000,
-              "currency": "USD"
+              "msrp": 2800000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "2.5L Inline-4",
@@ -371,8 +371,8 @@
             "model": "Golf GTI",
             "year": 2024,
             "price": {
-              "msrp": 32000,
-              "currency": "USD"
+              "msrp": 3200000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "2.0L Turbocharged I4",
@@ -393,8 +393,8 @@
             "model": "Outback",
             "year": 2024,
             "price": {
-              "msrp": 28000,
-              "currency": "USD"
+              "msrp": 2800000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "2.5L Flat-4",
@@ -415,8 +415,8 @@
             "model": "Sorento",
             "year": 2024,
             "price": {
-              "msrp": 32000,
-              "currency": "USD"
+              "msrp": 3200000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "2.5L Turbocharged I4",
@@ -437,8 +437,8 @@
             "model": "F8 Tributo",
             "year": 2023,
             "price": {
-              "msrp": 280000,
-              "currency": "USD"
+              "msrp": 28000000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "3.9L Twin-Turbo V8",
@@ -459,8 +459,8 @@
             "model": "XC90",
             "year": 2024,
             "price": {
-              "msrp": 56000,
-              "currency": "USD"
+              "msrp": 5600000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "2.0L Turbocharged & Supercharged I4",
@@ -481,8 +481,8 @@
             "model": "Ghibli",
             "year": 2024,
             "price": {
-              "msrp": 82000,
-              "currency": "USD"
+              "msrp": 8200000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "3.0L Twin-Turbo V6",
@@ -503,8 +503,8 @@
             "model": "911 Turbo S",
             "year": 2024,
             "price": {
-              "msrp": 230000,
-              "currency": "USD"
+              "msrp": 23000000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "3.8L Twin-Turbo Flat-6",
@@ -525,8 +525,8 @@
             "model": "Model S Plaid",
             "year": 2024,
             "price": {
-              "msrp": 115000,
-              "currency": "USD"
+              "msrp": 11500000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "Tri-Motor Electric",
@@ -547,8 +547,8 @@
             "model": "Bronco Raptor",
             "year": 2024,
             "price": {
-              "msrp": 87000,
-              "currency": "USD"
+              "msrp": 8700000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "3.0L Twin-Turbo V6",
@@ -569,8 +569,8 @@
             "model": "Corvette Z06",
             "year": 2024,
             "price": {
-              "msrp": 105000,
-              "currency": "USD"
+              "msrp": 10500000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "5.5L Naturally Aspirated V8",
@@ -591,8 +591,8 @@
             "model": "Phantom",
             "year": 2024,
             "price": {
-              "msrp": 460000,
-              "currency": "USD"
+              "msrp": 46000000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "6.75L Twin-Turbo V12",
@@ -613,8 +613,8 @@
             "model": "765LT",
             "year": 2024,
             "price": {
-              "msrp": 385000,
-              "currency": "USD"
+              "msrp": 38500000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "4.0L Twin-Turbo V8",
@@ -635,8 +635,8 @@
             "model": "M4 Competition xDrive",
             "year": 2024,
             "price": {
-              "msrp": 86000,
-              "currency": "USD"
+              "msrp": 8600000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "3.0L Twin-Turbo I6",
@@ -657,8 +657,8 @@
             "model": "RS7 Sportback",
             "year": 2024,
             "price": {
-              "msrp": 125000,
-              "currency": "USD"
+              "msrp": 12500000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "4.0L Twin-Turbo V8",
@@ -679,8 +679,8 @@
             "model": "AMG GT Black Series",
             "year": 2024,
             "price": {
-              "msrp": 325000,
-              "currency": "USD"
+              "msrp": 32500000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "4.0L Twin-Turbo V8",
@@ -701,8 +701,8 @@
             "model": "LC 500",
             "year": 2024,
             "price": {
-              "msrp": 98000,
-              "currency": "USD"
+              "msrp": 9800000,
+              "currency": "KES"
             },
             "specifications": {
               "engine": "5.0L Naturally Aspirated V8",

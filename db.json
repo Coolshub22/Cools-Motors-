@@ -4,66 +4,1168 @@
         "make": "Toyota",
         "model": "Camry",
         "year": 2022,
-        "engine": "2.5L Inline-4",
         "price": {
           "msrp": 25000,
           "currency": "USD"
         },
+        "specifications": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 139,
+        "fuelType": "Petrol",
+        "transmission": "CVT",
+        "mileage": "30 MPG"
+        },
         "color": "White",
         "bodyStyle": "Sedan",
         "images": [
-          "https://example.com/toyota_camry_1.jpg",
-          "https://example.com/toyota_camry_2.jpg"
-        ]
+          "https://www.atocars.com/storage/uploads/194653/toyota-camry-gle-2-5l-petrol-fwd-2022-model-year-white-color-1706697393.jpeg",
+          "https://www.dsf.my/wp-content/uploads/2023/09/2022-Toyota-Camry-2.5-V-Review-Photos-4.jpeg",
+          "https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3138/"
+        ],
+        "availability": true
       },
-      {
-        "make": "Ford",
-        "model": "Mustang",
-        "year": 2021,
-        "engine": "5.0L V8",
-        "price": {
-          "msrp": 38000,
-          "currency": "USD"
+        {
+            "make": "Toyota",
+            "model": "Corolla",
+            "year": 2022,
+            "price": {
+            "msrp": 20000,
+            "currency": "USD"
+            },
+            "specifications": {
+                "engine": "1.8L Inline-4",
+                "horsepower": 139,
+            "fuelType": "Petrol",
+            "transmission": "CVT",
+            "mileage": "30 MPG"
+            },
+            "color": "Black",
+            "bodyStyle": "Sedan",
+            "images": [
+            "https://www.atocars.com/storage/uploads/194653/toyota-camry-gle-2-5l-petrol-fwd-2022-model-year-white-color-1706697393.jpeg",
+            "https://www.dsf.my/wp-content/uploads/2023/09/2022-Toyota-Camry-2.5-V-Review-Photos-4.jpeg",
+            "https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3138/"
+            ],
+            "availability": true
         },
-        "color": "Red",
-        "bodyStyle": "Coupe",
-        "images": [
-          "https://example.com/ford_mustang_1.jpg",
-          "https://example.com/ford_mustang_2.jpg"
-        ]
-      },
-      {
-        "make": "Honda",
-        "model": "Civic",
-        "year": 2023,
-        "engine": "1.5L Inline-4 Turbo",
-        "price": {
-          "msrp": 23000,
-          "currency": "USD"
+        {
+            "make": "Toyota",
+            "model": "RAV4",
+            "year": 2022,
+            "price": {
+            "msrp": 30000,
+            "currency": "USD"
+            },
+            "specifications": {
+                "engine": "2.5L Inline-4",
+                "horsepower": 203,
+            "fuelType": "Petrol",
+            "transmission": "CVT",
+            "mileage": "30 MPG"
+            },
+            "color": "Blue",
+            "bodyStyle": "SUV",
+            "images": [
+            "https://www.atocars.com/storage/uploads/194653/toyota-camry-gle-2-5l-petrol-fwd-2022-model-year-white-color-1706697393.jpeg",
+            "https://www.dsf.my/wp-content/uploads/2023/09/2022-Toyota-Camry-2.5-V-Review-Photos-4.jpeg",
+            "https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3138/"
+            ],
+            "availability": true
         },
-        "color": "Blue",
-        "bodyStyle": "Hatchback",
-        "images": [
-          "https://example.com/honda_civic_1.jpg",
-          "https://example.com/honda_civic_2.jpg"
-        ]
-      },
-      // ... (997 more car objects)
-      {
-        "make": "Volkswagen",
-        "model": "Golf",
-        "year": 2020,
-        "engine": "2.0L Inline-4 Turbo",
-        "price": {
-          "msrp": 28000,
-          "currency": "USD"
-        },
-        "color": "Gray",
-        "bodyStyle": "Hatchback",
-        "images": [
-          "https://example.com/volkswagen_golf_1.jpg",
-          "https://example.com/volkswagen_golf_2.jpg"
-        ]
-      }
+        {
+            "make": "BMW",
+            "model": "X5",
+            "year": 2023,
+            "price": {
+              "msrp": 65000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "3.0L Turbocharged I6",
+              "horsepower": 335,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Automatic",
+              "mileage": "23 MPG"
+            },
+            "color": "Black",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_674,q_auto:good,w_1200/v1/cms/uploads/qibx3b20fbfflzqzlazr",
+              "https://di-uploads-pod2.dealerinspire.com/4seasonsbmw/uploads/2023/05/2024-bmw-x5-interior-dashboard.jpg",
+              "https://media.ed.edmunds-media.com/bmw/x5/2023/oem/2023_bmw_x5_4dr-suv_m50i_fq_oem_1_1280.jpg"
+            ],
+            "availability": false
+          },
+          {
+            "make": "Mercedes-Benz",
+            "model": "C-Class",
+            "year": 2024,
+            "price": {
+              "msrp": 45000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "2.0L Turbocharged I4",
+              "horsepower": 255,
+              "fuelType": "Petrol",
+              "transmission": "9-Speed Automatic",
+              "mileage": "25 MPG"
+            },
+            "color": "Silver",
+            "bodyStyle": "Sedan",
+            "images": [
+              "https://media.evo.co.uk/image/private/s--D-m0kYOQ--/f_auto,t_content-image-full-desktop@1/v1667892265/evo/2024-mercedes-benz-c-class-02.jpg",
+              "https://www.motortrend.com/uploads/2022/01/2022-Mercedes-Benz-C-Class-17.jpg",
+              "https://www.cstatic-images.com/car-pictures/xl/usd00mbc242c021001.png"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Ford",
+            "model": "Mustang",
+            "year": 2023,
+            "price": {
+              "msrp": 55000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "5.0L V8",
+              "horsepower": 450,
+              "fuelType": "Petrol",
+              "transmission": "6-Speed Manual",
+              "mileage": "19 MPG"
+            },
+            "color": "Red",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://hips.hearstapps.com/hmg-prod/images/2023-ford-mustang-101-1659554881.jpg",
+              "https://cdn.motor1.com/images/mgl/p6MMV/s1/2023-ford-mustang-gt.jpg",
+              "https://st.motortrend.com/uploads/sites/10/2022/09/2023-Ford-Mustang-2.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Tesla",
+            "model": "Model S",
+            "year": 2024,
+            "price": {
+              "msrp": 79990,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "Dual Electric Motors",
+              "horsepower": 1020,
+              "fuelType": "Electric",
+              "transmission": "Single-Speed Automatic",
+              "mileage": "396 miles per charge"
+            },
+            "color": "Blue",
+            "bodyStyle": "Sedan",
+            "images": [
+              "https://www.tesla.com/sites/default/files/modelsx-new/social/model-s-hero-social.jpg",
+              "https://media.ed.edmunds-media.com/tesla/model-s/2023/oem/2023_tesla_model-s_sedan_plaid_fq_oem_1_1280.jpg",
+              "https://hips.hearstapps.com/hmg-prod/images/2021-tesla-model-s-101-1612288038.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Honda",
+            "model": "Civic",
+            "year": 2023,
+            "price": {
+              "msrp": 24000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "1.5L Turbocharged I4",
+              "horsepower": 180,
+              "fuelType": "Petrol",
+              "transmission": "CVT",
+              "mileage": "36 MPG"
+            },
+            "color": "Gray",
+            "bodyStyle": "Sedan",
+            "images": [
+              "https://www.cstatic-images.com/car-pictures/xl/usd00hoc241b021001.png"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Audi",
+            "model": "Q7",
+            "year": 2023,
+            "price": {
+              "msrp": 72000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "3.0L Turbocharged V6",
+              "horsepower": 335,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Automatic",
+              "mileage": "21 MPG"
+            },
+            "color": "White",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://images.cars.com/cldstatic/wp-content/uploads/2023-Audi-Q7-01.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Chevrolet",
+            "model": "Corvette",
+            "year": 2024,
+            "price": {
+              "msrp": 70000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "6.2L V8",
+              "horsepower": 490,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Dual-Clutch",
+              "mileage": "16 MPG"
+            },
+            "color": "Yellow",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://www.motortrend.com/uploads/sites/5/2023/03/2024-Chevrolet-Corvette-E-Ray-003.jpg"
+            ],
+            "availability": false
+          },
+          {
+            "make": "Nissan",
+            "model": "Altima",
+            "year": 2023,
+            "price": {
+              "msrp": 28000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "2.5L Inline-4",
+              "horsepower": 188,
+              "fuelType": "Petrol",
+              "transmission": "CVT",
+              "mileage": "32 MPG"
+            },
+            "color": "Blue",
+            "bodyStyle": "Sedan",
+            "images": [
+              "https://www.cstatic-images.com/car-pictures/xl/usd00nis241c021001.png"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Porsche",
+            "model": "911",
+            "year": 2024,
+            "price": {
+              "msrp": 110000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "3.0L Twin-Turbocharged Flat-6",
+              "horsepower": 473,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed PDK",
+              "mileage": "20 MPG"
+            },
+            "color": "Black",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://files.porsche.com/filestore/image/multimedia/none/992-c2-modelimage-sideshot/model/4e21b872-d98f-11ea-80ca-005056bbdc38/porsche-model.png"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Lamborghini",
+            "model": "Huracán",
+            "year": 2024,
+            "price": {
+              "msrp": 210000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "5.2L V10",
+              "horsepower": 631,
+              "fuelType": "Petrol",
+              "transmission": "7-Speed Dual-Clutch",
+              "mileage": "15 MPG"
+            },
+            "color": "Green",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2022/09_16_huracan_sterrato/huracan_sterrato_cover.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Jaguar",
+            "model": "F-Type",
+            "year": 2023,
+            "price": {
+              "msrp": 73000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "5.0L Supercharged V8",
+              "horsepower": 444,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Automatic",
+              "mileage": "22 MPG"
+            },
+            "color": "Orange",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://cdn.motor1.com/images/mgl/3Jq6B/s1/jaguar-f-type-r75.jpg"
+            ],
+            "availability": false
+          },
+          {
+            "make": "Hyundai",
+            "model": "Tucson",
+            "year": 2024,
+            "price": {
+              "msrp": 29000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "2.5L Inline-4",
+              "horsepower": 187,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Automatic",
+              "mileage": "29 MPG"
+            },
+            "color": "Silver",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/tucson/gallery/Hyundai_Tucson_2024.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Mazda",
+            "model": "CX-5",
+            "year": 2024,
+            "price": {
+              "msrp": 28000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "2.5L Inline-4",
+              "horsepower": 187,
+              "fuelType": "Petrol",
+              "transmission": "6-Speed Automatic",
+              "mileage": "28 MPG"
+            },
+            "color": "Blue",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://www.mazda.com/en/assets/cars/mazda-cx-5/2024/mazda-cx-5-2024-overview.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Volkswagen",
+            "model": "Golf GTI",
+            "year": 2024,
+            "price": {
+              "msrp": 32000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "2.0L Turbocharged I4",
+              "horsepower": 241,
+              "fuelType": "Petrol",
+              "transmission": "7-Speed DSG",
+              "mileage": "30 MPG"
+            },
+            "color": "Red",
+            "bodyStyle": "Hatchback",
+            "images": [
+              "https://www.vw.com/content/dam/vw-ngw/vw_pkw/importers/us/models/golf-gti/2024/model/2024-golf-gti-model-card.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Subaru",
+            "model": "Outback",
+            "year": 2024,
+            "price": {
+              "msrp": 28000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "2.5L Flat-4",
+              "horsepower": 182,
+              "fuelType": "Petrol",
+              "transmission": "CVT",
+              "mileage": "26 MPG"
+            },
+            "color": "Green",
+            "bodyStyle": "Wagon",
+            "images": [
+              "https://www.subaru.com/content/dam/subaru/vehicles/2024/OBK/trim-hero-mobile.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Kia",
+            "model": "Sorento",
+            "year": 2024,
+            "price": {
+              "msrp": 32000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "2.5L Turbocharged I4",
+              "horsepower": 281,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Automatic",
+              "mileage": "24 MPG"
+            },
+            "color": "White",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://www.kia.com/us/content/dam/kia/us/en/vehicles/2024/sorento/overview/2024-sorento-hero.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Ferrari",
+            "model": "F8 Tributo",
+            "year": 2023,
+            "price": {
+              "msrp": 280000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "3.9L Twin-Turbo V8",
+              "horsepower": 710,
+              "fuelType": "Petrol",
+              "transmission": "7-Speed Dual-Clutch",
+              "mileage": "15 MPG"
+            },
+            "color": "Red",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://www.ferrari.com/images/fill-1920x1080-car-color/Ferrari-F8-Tributo-01.jpg"
+            ],
+            "availability": false
+          },
+          {
+            "make": "Volvo",
+            "model": "XC90",
+            "year": 2024,
+            "price": {
+              "msrp": 56000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "2.0L Turbocharged & Supercharged I4",
+              "horsepower": 316,
+              "fuelType": "Hybrid",
+              "transmission": "8-Speed Automatic",
+              "mileage": "26 MPG"
+            },
+            "color": "Gray",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://www.volvocars.com/images/fill-1920x1080/volvo-xc90-2024.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Maserati",
+            "model": "Ghibli",
+            "year": 2024,
+            "price": {
+              "msrp": 82000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "3.0L Twin-Turbo V6",
+              "horsepower": 424,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Automatic",
+              "mileage": "18 MPG"
+            },
+            "color": "Blue",
+            "bodyStyle": "Sedan",
+            "images": [
+              "https://www.maserati.com/images/fill-1920x1080/maserati-ghibli-2024.jpg"
+            ],
+            "availability": false
+          },
+          {
+            "make": "Porsche",
+            "model": "911 Turbo S",
+            "year": 2024,
+            "price": {
+              "msrp": 230000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "3.8L Twin-Turbo Flat-6",
+              "horsepower": 640,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed PDK",
+              "mileage": "20 MPG"
+            },
+            "color": "Yellow",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://www.porsche.com/content/dam/porsche/911-turbo-s/2024/911-turbo-s-yellow.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Tesla",
+            "model": "Model S Plaid",
+            "year": 2024,
+            "price": {
+              "msrp": 115000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "Tri-Motor Electric",
+              "horsepower": 1020,
+              "fuelType": "Electric",
+              "transmission": "Single-Speed",
+              "mileage": "396 miles (range)"
+            },
+            "color": "Black",
+            "bodyStyle": "Sedan",
+            "images": [
+              "https://www.tesla.com/sites/default/files/models/model-s/2024/tesla-model-s-plaid.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Ford",
+            "model": "Bronco Raptor",
+            "year": 2024,
+            "price": {
+              "msrp": 87000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "3.0L Twin-Turbo V6",
+              "horsepower": 418,
+              "fuelType": "Petrol",
+              "transmission": "10-Speed Automatic",
+              "mileage": "17 MPG"
+            },
+            "color": "Orange",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://www.ford.com/cmslibs/content/dam/ford/bronco-raptor/2024/ford-bronco-raptor-orange.jpg"
+            ],
+            "availability": false
+          },
+          {
+            "make": "Chevrolet",
+            "model": "Corvette Z06",
+            "year": 2024,
+            "price": {
+              "msrp": 105000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "5.5L Naturally Aspirated V8",
+              "horsepower": 670,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Dual-Clutch",
+              "mileage": "19 MPG"
+            },
+            "color": "Red",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://www.chevrolet.com/corvette-z06/2024/chevrolet-corvette-z06.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Rolls-Royce",
+            "model": "Phantom",
+            "year": 2024,
+            "price": {
+              "msrp": 460000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "6.75L Twin-Turbo V12",
+              "horsepower": 563,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Automatic",
+              "mileage": "14 MPG"
+            },
+            "color": "Silver",
+            "bodyStyle": "Luxury Sedan",
+            "images": [
+              "https://www.rolls-roycemotorcars.com/content/dam/rolls-royce/phantom/2024/rolls-royce-phantom.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "McLaren",
+            "model": "765LT",
+            "year": 2024,
+            "price": {
+              "msrp": 385000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "4.0L Twin-Turbo V8",
+              "horsepower": 755,
+              "fuelType": "Petrol",
+              "transmission": "7-Speed Dual-Clutch",
+              "mileage": "16 MPG"
+            },
+            "color": "Volcano Orange",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://www.mclaren.com/765lt-2024/mclaren-765lt-orange.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "BMW",
+            "model": "M4 Competition xDrive",
+            "year": 2024,
+            "price": {
+              "msrp": 86000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "3.0L Twin-Turbo I6",
+              "horsepower": 503,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Automatic",
+              "mileage": "23 MPG"
+            },
+            "color": "Isle of Man Green",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://www.bmwusa.com/content/dam/bmw/vehicles/m4-competition-xdrive/2024/bmw-m4-green.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Audi",
+            "model": "RS7 Sportback",
+            "year": 2024,
+            "price": {
+              "msrp": 125000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "4.0L Twin-Turbo V8",
+              "horsepower": 621,
+              "fuelType": "Petrol",
+              "transmission": "8-Speed Automatic",
+              "mileage": "19 MPG"
+            },
+            "color": "Nardo Gray",
+            "bodyStyle": "Sedan",
+            "images": [
+              "https://www.audiusa.com/content/dam/audi/rs7-sportback/2024/audi-rs7-gray.jpg"
+            ],
+            "availability": false
+          },
+          {
+            "make": "Mercedes-Benz",  
+            "model": "AMG GT Black Series",
+            "year": 2024,
+            "price": {
+              "msrp": 325000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "4.0L Twin-Turbo V8",
+              "horsepower": 720,
+              "fuelType": "Petrol",
+              "transmission": "7-Speed Dual-Clutch",
+              "mileage": "15 MPG"
+            },
+            "color": "Solar Beam Yellow",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://www.mercedes-amg.com/content/dam/mercedes-amg-gt-black-series/2024/amg-gt-black-yellow.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Lexus",
+            "model": "LC 500",
+            "year": 2024,
+            "price": {
+              "msrp": 98000,
+              "currency": "USD"
+            },
+            "specifications": {
+              "engine": "5.0L Naturally Aspirated V8",
+              "horsepower": 471,
+              "fuelType": "Petrol",
+              "transmission": "10-Speed Automatic",
+              "mileage": "19 MPG"
+            },
+            "color": "Infrared",
+            "bodyStyle": "Coupe",
+            "images": [
+              "https://www.lexus.com/content/dam/lexus/lc500/2024/lexus-lc500-red.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Toyota",
+            "model": "Land Cruiser 300",
+            "year": 2024,
+            "price": {
+              "msrp": 18000000,
+              "currency": "KES"
+            },
+            "specifications": {
+              "engine": "3.3L Twin-Turbo V6",
+              "horsepower": 305,
+              "fuelType": "Diesel",
+              "transmission": "10-Speed Automatic",
+              "mileage": "10 km/L"
+            },
+            "color": "Black",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://toyotakenya.com/wp-content/uploads/2022/07/Toyota-Land-Cruiser-300.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Nissan",
+            "model": "Navara",
+            "year": 2024,
+            "price": {
+              "msrp": 7500000,
+              "currency": "KES"
+            },
+            "specifications": {
+              "engine": "2.5L Turbo Diesel",
+              "horsepower": 187,
+              "fuelType": "Diesel",
+              "transmission": "7-Speed Automatic",
+              "mileage": "13 km/L"
+            },
+            "color": "White",
+            "bodyStyle": "Pickup",
+            "images": [
+              "https://www.nissankenya.com/images/navara-white.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Mercedes-Benz",
+            "model": "GLE 350d",
+            "year": 2023,
+            "price": {
+              "msrp": 15500000,
+              "currency": "KES"
+            },
+            "specifications": {
+              "engine": "2.9L Turbo Diesel I6",
+              "horsepower": 282,
+              "fuelType": "Diesel",
+              "transmission": "9-Speed Automatic",
+              "mileage": "12 km/L"
+            },
+            "color": "Silver",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://www.mercedes-benz.co.ke/gle-suv.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Volkswagen",
+            "model": "Touareg",
+            "year": 2024,
+            "price": {
+              "msrp": 12000000,
+              "currency": "KES"
+            },
+            "specifications": {
+              "engine": "3.0L V6 TDI",
+              "horsepower": 282,
+              "fuelType": "Diesel",
+              "transmission": "8-Speed Automatic",
+              "mileage": "11 km/L"
+            },
+            "color": "Blue",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://www.volkswagen.co.ke/touareg-blue.jpg"
+            ],
+            "availability": true
+          },
+          {
+            "make": "Toyota",
+            "model": "Harrier",
+            "year": 2024,
+            "price": {
+              "msrp": 6200000,
+              "currency": "KES"
+            },
+            "specifications": {
+              "engine": "2.0L Inline-4",
+              "horsepower": 173,
+              "fuelType": "Petrol",
+              "transmission": "CVT",
+              "mileage": "15 km/L"
+            },
+            "color": "White",
+            "bodyStyle": "SUV",
+            "images": [
+              "https://toyotakenya.com/wp-content/uploads/2022/07/Toyota-Harrier.jpg"
+            ],
+            "availability": true
+          },
+          [
+            {
+              "make": "Toyota",
+              "model": "Premio",
+              "year": 2024,
+              "price": {
+                "msrp": 1500000,
+                "currency": "KES"
+              },
+              "specifications": {
+                "engine": "1.8L Inline-4",
+                "horsepower": 140,
+                "fuelType": "Petrol",
+                "transmission": "CVT",
+                "mileage": "15 km/l"
+              },
+              "color": "Silver",
+              "bodyStyle": "Sedan",
+              "images": [
+                "https://example.com/toyota-premio-2024.jpg"
+              ],
+              "availability": true
+            },
+            {
+              "make": "Mazda",
+              "model": "Demio",
+              "year": 2024,
+              "price": {
+                "msrp": 1000000,
+                "currency": "KES"
+              },
+              "specifications": {
+                "engine": "1.3L Inline-4",
+                "horsepower": 91,
+                "fuelType": "Petrol",
+                "transmission": "Automatic",
+                "mileage": "18 km/l"
+              },
+              "color": "Blue",
+              "bodyStyle": "Hatchback",
+              "images": [
+                "https://example.com/mazda-demio-2024.jpg"
+              ],
+              "availability": true
+            },
+            {
+              "make": "Subaru",
+              "model": "Forester",
+              "year": 2024,
+              "price": {
+                "msrp": 2800000,
+                "currency": "KES"
+              },
+              "specifications": {
+                "engine": "2.0L Boxer-4",
+                "horsepower": 156,
+                "fuelType": "Petrol",
+                "transmission": "CVT",
+                "mileage": "12 km/l"
+              },
+              "color": "Green",
+              "bodyStyle": "SUV",
+              "images": [
+                "https://example.com/subaru-forester-2024.jpg"
+              ],
+              "availability": true
+            },
+            {
+              "make": "Nissan",
+              "model": "X-Trail",
+              "year": 2024,
+              "price": {
+                "msrp": 2900000,
+                "currency": "KES"
+              },
+              "specifications": {
+                "engine": "2.5L Inline-4",
+                "horsepower": 169,
+                "fuelType": "Petrol",
+                "transmission": "CVT",
+                "mileage": "11 km/l"
+              },
+              "color": "White",
+              "bodyStyle": "SUV",
+              "images": [
+                "https://example.com/nissan-xtrail-2024.jpg"
+              ],
+              "availability": true
+            },
+            {
+              "make": "Honda",
+              "model": "Fit",
+              "year": 2024,
+              "price": {
+                "msrp": 850000,
+                "currency": "KES"
+              },
+              "specifications": {
+                "engine": "1.5L Inline-4",
+                "horsepower": 130,
+                "fuelType": "Petrol",
+                "transmission": "CVT",
+                "mileage": "17 km/l"
+              },
+              "color": "Red",
+              "bodyStyle": "Hatchback",
+              "images": [
+                "https://example.com/honda-fit-2024.jpg"
+              ],
+              "availability": true
+            },
+            [
+                {
+                  "make": "Toyota",
+                  "model": "Land Cruiser Prado",
+                  "year": 2024,
+                  "price": {
+                    "msrp": 8500000,
+                    "currency": "KES"
+                  },
+                  "specifications": {
+                    "engine": "2.8L Turbo Diesel",
+                    "horsepower": 201,
+                    "fuelType": "Diesel",
+                    "transmission": "6-Speed Automatic",
+                    "mileage": "11 km/l"
+                  },
+                  "color": "Black",
+                  "bodyStyle": "SUV",
+                  "images": [
+                    "https://example.com/toyota-land-cruiser-prado-2024.jpg"
+                  ],
+                  "availability": true
+                },
+                {
+                  "make": "Mazda",
+                  "model": "CX-5",
+                  "year": 2024,
+                  "price": {
+                    "msrp": 3800000,
+                    "currency": "KES"
+                  },
+                  "specifications": {
+                    "engine": "2.5L Inline-4",
+                    "horsepower": 187,
+                    "fuelType": "Petrol",
+                    "transmission": "6-Speed Automatic",
+                    "mileage": "13 km/l"
+                  },
+                  "color": "Red",
+                  "bodyStyle": "SUV",
+                  "images": [
+                    "https://example.com/mazda-cx5-2024.jpg"
+                  ],
+                  "availability": true
+                },
+                {
+                  "make": "Nissan",
+                  "model": "Note",
+                  "year": 2024,
+                  "price": {
+                    "msrp": 1200000,
+                    "currency": "KES"
+                  },
+                  "specifications": {
+                    "engine": "1.2L Inline-3",
+                    "horsepower": 79,
+                    "fuelType": "Petrol",
+                    "transmission": "CVT",
+                    "mileage": "18 km/l"
+                  },
+                  "color": "Blue",
+                  "bodyStyle": "Hatchback",
+                  "images": [
+                    "https://example.com/nissan-note-2024.jpg"
+                  ],
+                  "availability": true
+                },
+                {
+                  "make": "Suzuki",
+                  "model": "Swift",
+                  "year": 2024,
+                  "price": {
+                    "msrp": 1100000,
+                    "currency": "KES"
+                  },
+                  "specifications": {
+                    "engine": "1.2L Inline-4",
+                    "horsepower": 83,
+                    "fuelType": "Petrol",
+                    "transmission": "CVT",
+                    "mileage": "20 km/l"
+                  },
+                  "color": "White",
+                  "bodyStyle": "Hatchback",
+                  "images": [
+                    "https://example.com/suzuki-swift-2024.jpg"
+                  ],
+                  "availability": true
+                },
+                {
+                  "make": "Mercedes-Benz",
+                  "model": "C-Class",
+                  "year": 2024,
+                  "price": {
+                    "msrp": 6500000,
+                    "currency": "KES"
+                  },
+                  "specifications": {
+                    "engine": "2.0L Turbo Inline-4",
+                    "horsepower": 255,
+                    "fuelType": "Petrol",
+                    "transmission": "9-Speed Automatic",
+                    "mileage": "12 km/l"
+                  },
+                  "color": "Silver",
+                  "bodyStyle": "Sedan",
+                  "images": [
+                    "https://example.com/mercedes-c-class-2024.jpg"
+                  ],
+                  "availability": true
+                },
+                [
+                    {
+                      "make": "Toyota",
+                      "model": "Hilux",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 6800000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "2.8L Turbo Diesel",
+                        "horsepower": 204,
+                        "fuelType": "Diesel",
+                        "transmission": "6-Speed Automatic",
+                        "mileage": "11 km/l"
+                      },
+                      "color": "Silver",
+                      "bodyStyle": "Pickup",
+                      "images": [
+                        "https://example.com/toyota-hilux-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Subaru",
+                      "model": "Forester XT",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 4900000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "2.5L Turbo Boxer-4",
+                        "horsepower": 260,
+                        "fuelType": "Petrol",
+                        "transmission": "CVT",
+                        "mileage": "12 km/l"
+                      },
+                      "color": "Dark Blue",
+                      "bodyStyle": "SUV",
+                      "images": [
+                        "https://example.com/subaru-forester-xt-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Ford",
+                      "model": "Everest",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 7500000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "2.0L Bi-Turbo Diesel",
+                        "horsepower": 210,
+                        "fuelType": "Diesel",
+                        "transmission": "10-Speed Automatic",
+                        "mileage": "10 km/l"
+                      },
+                      "color": "Grey",
+                      "bodyStyle": "SUV",
+                      "images": [
+                        "https://example.com/ford-everest-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Isuzu",
+                      "model": "D-Max V-Cross",
+                      "year": 2024,
+                       "price": {
+                    "msrp": 5400000,
+                    "currency": "KES"
+                    },
+                    "specifications": {
+                    "engine": "3.0L Turbo Diesel",
+                    "horsepower": 190,
+                    "fuelType": "Diesel",
+                    "transmission": "6-Speed Automatic",
+                    "mileage": "12 km/l"
+                    },
+                    "color": "Black",
+                    "bodyStyle": "Pickup",
+                    "images": [
+                    "https://example.com/isuzu-dmax-vcross-2024.jpg"
+                    ],
+                    "availability": true
+                },
+                {
+                    "make": "Porsche",
+                    "model": "Cayenne",
+                    "year": 2024,
+                    "price": {
+                    "msrp": 18000000,
+                    "currency": "KES"
+                    },
+                    "specifications": {
+                    "engine": "3.0L Turbo V6",
+                    "horsepower": 348,
+                    "fuelType": "Petrol",
+                    "transmission": "8-Speed Automatic",
+                    "mileage": "9 km/l"
+                    },
+                    "color": "White",
+                    "bodyStyle": "SUV",
+                    "images": [
+                    "https://example.com/porsche-cayenne-2024.jpg"
+                    ],
+                    "availability": true
+                }
+                ]
+                       
+                  
+              ]              
+          ]                
     ]
-  }
+}
+    

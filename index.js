@@ -20,28 +20,30 @@ function showCars(cars) {
 
         carCard.innerHTML = `
          <img src = "${carImage}" alt = "${car.make} ${car.model}">
-         <h3>${car.make} ${car.model}</h3>
+         <h3>${car.make} ${car.model} (${car.year})</h3>
          <p><strong>Price:</strong>${car.price.currency} ${car.price.msrp.toLocaleString()}</p>
-         <p><strong>Engine:</strong>${car.specifications.engine}</p>
-         <p><strong>Horsepower:</strong>${car.specifications.horsepower}HP</p>
-         <P><strong>Fuel:</strong>${car.specifications.fuelType} | <strong>Transmission:</strong?${car.specifications.transmission}</p>
-         <p><strong>Color:</strong>${car.color}</p>
-         <p><strong>Body Style:</strong>${car.bodyStyle}</p>
-         <button class = "book-btn"
-         data-make = "${car.make}"
-         data-model = "${car.model}"
-         data-msrp = "${car.price.msrp}"
-         >Book Now</button>`;
-
+         <button class = "details-btn" data-car = ${JSON.stringify(car)}>View Details</button>
+         `;
+ 
           carGallery.appendChild(carCard);
     });
 
-    document.querySelectorAll("book-btn").forEach(button => {
+    document.querySelectorAll("details-btn").forEach(button => {
         button.addEventListener("click", function() {
-            openBookingForm(this.dataset.make, this.dataset.model, this.dataset.msrp);
+           showCarDetails(JSON.parse(button.dataset.car));
     })
    
 })
 };
 
+function showCarDetails(car) {
+    const detailsContainer = document.getElementById("details-container");
+    detailsContainer.innerHTML =`
+        <h3>${car.make} ${car.model} (${car.year})</h3>
+        <p><strong>Engine:</strong>${car.specifications.engine}</p>
+         <p><strong>Horsepower:</strong>${car.specifications.horsepower}HP</p>
+         <P><strong>Fuel:</strong>${car.specifications.fuelType} | <strong>Transmission:</strong?${car.specifications.transmission}</p>
+         <p><strong>Color:</strong>${car.color}</p>
+         <p><strong>Body Style:</strong>${car.bodyStyle}</p>`
+}
 

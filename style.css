@@ -115,6 +115,29 @@ h2 {
     background-color: #444;
 }
 
+.car-card img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.car-card {
+    width: 250px;
+    border: 2px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#car-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
 
 
 

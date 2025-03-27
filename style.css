@@ -2,37 +2,44 @@
     margin: 0px;
     padding: 0px;
     box-sizing:border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 body {
-    background-color: #f8f9fa;
-    color: #333;
+    background: linear-gradient(135deg, #0A1F44, #1A5276);
+    color:#ECF0F1;
     line-height: 1.6;
+    padding: 20px;
 }
 
 header {
-    background-color: #222;
-    color: white;
+    background-color: #0A1F44;
+    color: #00ADEF;
     padding: 20px;
     text-align: center;
     font-size: 24px;
     font-weight: bold;
-}
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
 
+}
  nav ul {
     list-style-type: none;
-}
-
- nav ul li {
-    display: inline;
-    margin: 0 15px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
 
 nav ul li a {
-    color: white;
+    color: #ECF0F1;
     text-decoration: none;
     font-weight: bold;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #00ADEF;
 }
 
 h2 {
@@ -40,58 +47,46 @@ h2 {
 }
 
 #gallery {
-    display: grid;
-    border-radius: 10px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    transition: transform 0.3s;
-    gap: 20px;
     padding: 20px;
+    text-align: center;
 }
 
 .car-container {
-    background-color: white;
-    border-radius: 10px;
-    padding: 10px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    transition: transform 0.3s;
-    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
 }
 
-.car-container:hover {
-    transform: scale(1.10);
-}
 
-#search {
+
+#search, #booking {
     text-align: center;
-    margin: 20px;
+    padding: 30px;
+    background: #0A1F44;
 }
 
 #search-box {
     padding: 10px;
-    width: 80%;
+    width: 300px;
     max-width: 400px;
-    border: 2px solid #ccc;
+    border:none;
     border-radius: 8px;
+    font-size: 1em;
 }
 
 #details-container {
-    background-color: white;
-    padding: 20px;
-    margin: 20px;
-    border-radius: 10px;
-    box-shadow:rgba(0, 0, 0, 0.1);
-}
-
-#booking-form {
-    background-color: white;
+    background-color:#1b2149;
     padding: 20px;
     margin: 20px auto;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    max-width: 400px;
-    text-align: center;
+    box-shadow:0px 4px 15px rgba(0, 168, 255, 0.3);
+    max-width: 600px;
+}
+
+#booking-form {
+    margin-top: 20px;
 }
 
 #booking-form label,
@@ -117,25 +112,77 @@ h2 {
 
 .car-card img {
     width: 100%;
-    max-height: 200px;
-    object-fit: cover;
-    border-radius: 10px;
+    border-radius: 10px; 
 }
 
 .car-card {
-    width: 250px;
-    border: 2px solid #ddd;
-    padding: 10px;
+    background: #112F4F;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
     text-align: center;
-    border-radius: 8px;
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+
+.car-card:hover {
+    transform:translateY(-5px);
+}
+
+.car-card h3 {
+    margin: 10px;
+    color: #00adef;
+}
+
+.car-card p {
+    color: #ECF0F1
+}
+
+.details-btn {
+    background: #00ADEF;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.details-btn:hover {
+    background: #008ACB;
 }
 
 #car-list {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
+    margin: auto;
+    max-width: 1200px;
+    background: #112d4e
+}
+
+button[type="submit"] {
+    background-color: #00adef;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: background 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #008acb;
+
+}
+
+#car-select {
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1em;
 }
 
 

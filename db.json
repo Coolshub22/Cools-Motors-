@@ -828,7 +828,6 @@
             ],
             "availability": true
           },
-          [
             {
               "make": "Toyota",
               "model": "Premio",
@@ -939,7 +938,7 @@
               ],
               "availability": true
             },
-            [
+            
                 {
                   "make": "Toyota",
                   "model": "Land Cruiser Prado",
@@ -1050,7 +1049,6 @@
                   ],
                   "availability": true
                 },
-                [
                     {
                       "make": "Toyota",
                       "model": "Hilux",
@@ -1160,12 +1158,3286 @@
                     "https://example.com/porsche-cayenne-2024.jpg"
                     ],
                     "availability": true
-                }
-                ]
-                       
-                  
-              ]              
-          ]                
-    ]
+                },
+                    {
+                      "make": "Toyota",
+                      "model": "RAV4",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 5200000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "2.5L Inline-4",
+                        "horsepower": 203,
+                        "fuelType": "Petrol",
+                        "transmission": "8-Speed Automatic",
+                        "mileage": "15 km/l"
+                      },
+                      "color": "Pearl White",
+                      "bodyStyle": "SUV",
+                      "images": [
+                        "https://example.com/toyota-rav4-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Honda",
+                      "model": "CR-V",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 5600000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "1.5L Turbo Inline-4",
+                        "horsepower": 190,
+                        "fuelType": "Petrol",
+                        "transmission": "CVT",
+                        "mileage": "14 km/l"
+                      },
+                      "color": "Silver",
+                      "bodyStyle": "SUV",
+                      "images": [
+                        "https://example.com/honda-crv-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Volkswagen",
+                      "model": "Golf GTI",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 4800000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "2.0L Turbo Inline-4",
+                        "horsepower": 241,
+                        "fuelType": "Petrol",
+                        "transmission": "7-Speed DSG",
+                        "mileage": "13 km/l"
+                      },
+                      "color": "Red",
+                      "bodyStyle": "Hatchback",
+                      "images": [
+                        "https://example.com/vw-golf-gti-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "BMW",
+                      "model": "X5",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 15500000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "3.0L Turbo Inline-6",
+                        "horsepower": 335,
+                        "fuelType": "Petrol",
+                        "transmission": "8-Speed Automatic",
+                        "mileage": "10 km/l"
+                      },
+                      "color": "Black",
+                      "bodyStyle": "SUV",
+                      "images": [
+                        "https://example.com/bmw-x5-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Audi",
+                      "model": "Q7",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 16500000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "3.0L Turbo V6",
+                        "horsepower": 335,
+                        "fuelType": "Petrol",
+                        "transmission": "8-Speed Automatic",
+                        "mileage": "10 km/l"
+                      },
+                      "color": "Blue",
+                      "bodyStyle": "SUV",
+                      "images": [
+                        "https://example.com/audi-q7-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Toyota",
+                      "model": "Harrier",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 6500000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "2.5L Hybrid Inline-4",
+                        "horsepower": 218,
+                        "fuelType": "Hybrid",
+                        "transmission": "e-CVT",
+                        "mileage": "22 km/l"
+                      },
+                      "color": "Black",
+                      "bodyStyle": "SUV",
+                      "images": [
+                        "https://example.com/toyota-harrier-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Mitsubishi",
+                      "model": "Outlander PHEV",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 7200000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "2.4L Plug-in Hybrid",
+                        "horsepower": 221,
+                        "fuelType": "Hybrid",
+                        "transmission": "CVT",
+                        "mileage": "55 km/l (EV Mode)"
+                      },
+                      "color": "White",
+                      "bodyStyle": "SUV",
+                      "images": [
+                        "https://example.com/mitsubishi-outlander-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Hyundai",
+                      "model": "Tucson",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 5000000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "1.6L Turbo Inline-4",
+                        "horsepower": 180,
+                        "fuelType": "Petrol",
+                        "transmission": "8-Speed Automatic",
+                        "mileage": "14 km/l"
+                      },
+                      "color": "Grey",
+                      "bodyStyle": "SUV",
+                      "images": [
+                        "https://example.com/hyundai-tucson-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Peugeot",
+                      "model": "3008",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 4800000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "1.6L Turbo Inline-4",
+                        "horsepower": 181,
+                        "fuelType": "Petrol",
+                        "transmission": "8-Speed Automatic",
+                        "mileage": "15 km/l"
+                      },
+                      "color": "Blue",
+                      "bodyStyle": "SUV",
+                      "images": [
+                        "https://example.com/peugeot-3008-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                    {
+                      "make": "Range Rover",
+                      "model": "Velar",
+                      "year": 2024,
+                      "price": {
+                        "msrp": 16500000,
+                        "currency": "KES"
+                      },
+                      "specifications": {
+                        "engine": "3.0L Turbo Inline-6",
+                        "horsepower": 395,
+                        "fuelType": "Petrol",
+                        "transmission": "8-Speed Automatic",
+                        "mileage": "9 km/l"
+                      },
+                      "color": "Silver",
+                      "bodyStyle": "Luxury SUV",
+                      "images": [
+                        "https://example.com/range-rover-velar-2024.jpg"
+                      ],
+                      "availability": true
+                    },
+                        {
+                          "make": "Ford",
+                          "model": "Bronco",
+                          "year": 2024,
+                          "price": {
+                            "msrp": 8600000,
+                            "currency": "KES"
+                          },
+                          "specifications": {
+                            "engine": "2.7L Twin-Turbo V6",
+                            "horsepower": 330,
+                            "fuelType": "Petrol",
+                            "transmission": "10-Speed Automatic",
+                            "mileage": "9 km/l"
+                          },
+                          "color": "Orange",
+                          "bodyStyle": "Off-Road SUV",
+                          "images": [
+                            "https://example.com/ford-bronco-2024.jpg"
+                          ],
+                          "availability": true
+                        },
+                        {
+                          "make": "Chevrolet",
+                          "model": "Tahoe",
+                          "year": 2024,
+                          "price": {
+                            "msrp": 13500000,
+                            "currency": "KES"
+                          },
+                          "specifications": {
+                            "engine": "5.3L V8",
+                            "horsepower": 355,
+                            "fuelType": "Petrol",
+                            "transmission": "10-Speed Automatic",
+                            "mileage": "7 km/l"
+                          },
+                          "color": "Black",
+                          "bodyStyle": "Full-Size SUV",
+                          "images": [
+                            "https://example.com/chevy-tahoe-2024.jpg"
+                          ],
+                          "availability": true
+                        },
+                        {
+                          "make": "Dodge",
+                          "model": "Charger SRT Hellcat",
+                          "year": 2024,
+                          "price": {
+                            "msrp": 15500000,
+                            "currency": "KES"
+                          },
+                          "specifications": {
+                            "engine": "6.2L Supercharged V8",
+                            "horsepower": 717,
+                            "fuelType": "Petrol",
+                            "transmission": "8-Speed Automatic",
+                            "mileage": "5 km/l"
+                          },
+                          "color": "Red",
+                          "bodyStyle": "Muscle Sedan",
+                          "images": [
+                            "https://example.com/dodge-charger-hellcat-2024.jpg"
+                          ],
+                          "availability": true
+                        },
+                        {
+                          "make": "Jeep",
+                          "model": "Grand Cherokee",
+                          "year": 2024,
+                          "price": {
+                            "msrp": 9500000,
+                            "currency": "KES"
+                          },
+                          "specifications": {
+                            "engine": "3.6L V6",
+                            "horsepower": 293,
+                            "fuelType": "Petrol",
+                            "transmission": "8-Speed Automatic",
+                            "mileage": "10 km/l"
+                          },
+                          "color": "White",
+                          "bodyStyle": "Luxury SUV",
+                          "images": [
+                            "https://example.com/jeep-grand-cherokee-2024.jpg"
+                          ],
+                          "availability": true
+                        },
+                        {
+                          "make": "Cadillac",
+                          "model": "Escalade",
+                          "year": 2024,
+                          "price": {
+                            "msrp": 18000000,
+                            "currency": "KES"
+                          },
+                          "specifications": {
+                            "engine": "6.2L V8",
+                            "horsepower": 420,
+                            "fuelType": "Petrol",
+                            "transmission": "10-Speed Automatic",
+                            "mileage": "6 km/l"
+                          },
+                          "color": "Silver",
+                          "bodyStyle": "Luxury SUV",
+                          "images": [
+                            "https://example.com/cadillac-escalade-2024.jpg"
+                          ],
+                          "availability": true
+                        },
+                        {
+                            "make": "Ford",
+                            "model": "F-150 Raptor",
+                            "year": 2024,
+                            "price": {
+                              "msrp": 14000000,
+                              "currency": "KES"
+                            },
+                            "specifications": {
+                              "engine": "3.5L Twin-Turbo V6",
+                              "horsepower": 450,
+                              "fuelType": "Petrol",
+                              "transmission": "10-Speed Automatic",
+                              "mileage": "7 km/l"
+                            },
+                            "color": "Blue",
+                            "bodyStyle": "Pickup Truck",
+                            "images": [
+                              "https://example.com/ford-f150-raptor-2024.jpg"
+                            ],
+                            "availability": true
+                          },
+                          {
+                            "make": "Ram",
+                            "model": "1500 TRX",
+                            "year": 2024,
+                            "price": {
+                              "msrp": 18000000,
+                              "currency": "KES"
+                            },
+                            "specifications": {
+                              "engine": "6.2L Supercharged V8",
+                              "horsepower": 702,
+                              "fuelType": "Petrol",
+                              "transmission": "8-Speed Automatic",
+                              "mileage": "5 km/l"
+                            },
+                            "color": "Black",
+                            "bodyStyle": "Pickup Truck",
+                            "images": [
+                              "https://example.com/ram-1500-trx-2024.jpg"
+                            ],
+                            "availability": true
+                          },
+                          {
+                            "make": "Chevrolet",
+                            "model": "Corvette C8",
+                            "year": 2024,
+                            "price": {
+                              "msrp": 16000000,
+                              "currency": "KES"
+                            },
+                            "specifications": {
+                              "engine": "6.2L V8",
+                              "horsepower": 495,
+                              "fuelType": "Petrol",
+                              "transmission": "8-Speed Dual-Clutch",
+                              "mileage": "8 km/l"
+                            },
+                            "color": "Yellow",
+                            "bodyStyle": "Sports Car",
+                            "images": [
+                              "https://example.com/chevrolet-corvette-c8-2024.jpg"
+                            ],
+                            "availability": true
+                          },
+                          {
+                            "make": "Tesla",
+                            "model": "Model X Plaid",
+                            "year": 2024,
+                            "price": {
+                              "msrp": 19000000,
+                              "currency": "KES"
+                            },
+                            "specifications": {
+                              "engine": "Electric",
+                              "horsepower": 1020,
+                              "fuelType": "Electric",
+                              "transmission": "Single-Speed",
+                              "mileage": "550 km per charge"
+                            },
+                            "color": "White",
+                            "bodyStyle": "Electric SUV",
+                            "images": [
+                              "https://example.com/tesla-model-x-plaid-2024.jpg"
+                            ],
+                            "availability": true
+                          },
+                          {
+                            "make": "GMC",
+                            "model": "Hummer EV",
+                            "year": 2024,
+                            "price": {
+                              "msrp": 22000000,
+                              "currency": "KES"
+                            },
+                            "specifications": {
+                              "engine": "Electric",
+                              "horsepower": 1000,
+                              "fuelType": "Electric",
+                              "transmission": "Single-Speed",
+                              "mileage": "560 km per charge"
+                            },
+                            "color": "Silver",
+                            "bodyStyle": "Electric Pickup",
+                            "images": [
+                              "https://example.com/gmc-hummer-ev-2024.jpg"
+                            ],
+                            "availability": true
+                          },
+                          {
+                            "make": "Rivian",
+                            "model": "R1T",
+                            "year": 2024,
+                            "price": {
+                              "msrp": 20000000,
+                              "currency": "KES"
+                            },
+                            "specifications": {
+                              "engine": "Electric",
+                              "horsepower": 835,
+                              "fuelType": "Electric",
+                              "transmission": "Single-Speed",
+                              "mileage": "500 km per charge"
+                            },
+                            "color": "Blue",
+                            "bodyStyle": "Electric Pickup",
+                            "images": [
+                              "https://example.com/rivian-r1t-2024.jpg"
+                            ],
+                            "availability": true
+                          },
+                          {
+                            "make": "Lucid",
+                            "model": "Air",
+                            "year": 2024,
+                            "price": {
+                              "msrp": 21000000,
+                              "currency": "KES"
+                            },
+                            "specifications": {
+                              "engine": "Electric",
+                              "horsepower": 1080,
+                              "fuelType": "Electric",
+                              "transmission": "Single-Speed",
+                              "mileage": "600 km per charge"
+                            },
+                            "color": "White",
+                            "bodyStyle": "Electric Sedan",
+                            "images": [
+                              "https://example.com/lucid-air-2024.jpg"
+                            ],
+                            "availability": true
+                          },
+                          {
+                            "make": "Porsche",
+                            "model": "Taycan",
+                            "year": 2024,
+                            "price": {
+                              "msrp": 20000000,
+                              "currency": "KES"
+                            },
+                            "specifications": {
+                              "engine": "Electric",
+                              "horsepower": 750,
+                              "fuelType": "Electric",
+                              "transmission": "Single-Speed",
+                              "mileage": "450 km per charge"
+                            },
+                            "color": "Black",
+                            "bodyStyle": "Electric Sedan",
+                            "images": [
+                              "https://example.com/porsche-taycan-2024.jpg"
+                            ],
+                            "availability": true
+                          },
+                          {
+                            "make": "Audi",
+                            "model": "e-tron GT",
+                            "year": 2024,
+                            "price": {
+                              "msrp": 19000000,
+                              "currency": "KES",
+                              "specifications": {
+                                "engine": "Electric",
+                                "horsepower": 590,
+                                "fuelType": "Electric",
+                                "transmission": "Single-Speed",
+                                "mileage": "450 km per charge"
+                              },
+                              "color": "Blue",
+                              "bodyStyle": "Electric Sedan",
+                              "images": [
+                                "https://example.com/audi-etron-gt-2024.jpg"
+                              ],
+                              "availability": true
+                            }
+                            },
+                            {
+                                "make": "BMW",
+                                "model": "M5 Competition",
+                                "year": 2024,
+                                "price": {
+                                  "msrp": 18500000,
+                                  "currency": "KES"
+                                },
+                                "specifications": {
+                                  "engine": "4.4L Twin-Turbo V8",
+                                  "horsepower": 617,
+                                  "fuelType": "Petrol",
+                                  "transmission": "8-Speed Automatic",
+                                  "mileage": "7 km/l"
+                                },
+                                "color": "Matte Black",
+                                "bodyStyle": "Luxury Sedan",
+                                "images": [
+                                  "https://example.com/bmw-m5-competition-2024.jpg"
+                                ],
+                                "availability": true
+                              },
+                              {
+                                "make": "Mercedes-Benz",
+                                "model": "AMG GT 63 S",
+                                "year": 2024,
+                                "price": {
+                                  "msrp": 22000000,
+                                  "currency": "KES"
+                                },
+                                "specifications": {
+                                  "engine": "4.0L Twin-Turbo V8",
+                                  "horsepower": 630,
+                                  "fuelType": "Petrol",
+                                  "transmission": "9-Speed Automatic",
+                                  "mileage": "6 km/l"
+                                },
+                                "color": "Obsidian Black",
+                                "bodyStyle": "Luxury Coupe",
+                                "images": [
+                                  "https://example.com/mercedes-amg-gt63s-2024.jpg"
+                                ],
+                                "availability": true
+                              },
+                              {
+                                "make": "Audi",
+                                "model": "RS7 Sportback",
+                                "year": 2024,
+                                "price": {
+                                  "msrp": 19500000,
+                                  "currency": "KES"
+                                },
+                                "specifications": {
+                                  "engine": "4.0L Twin-Turbo V8",
+                                  "horsepower": 591,
+                                  "fuelType": "Petrol",
+                                  "transmission": "8-Speed Automatic",
+                                  "mileage": "7 km/l"
+                                },
+                                "color": "Nardo Grey",
+                                "bodyStyle": "Luxury Sedan",
+                                "images": [
+                                  "https://example.com/audi-rs7-2024.jpg"
+                                ],
+                                "availability": true
+                              },
+                              {
+                                "make": "Porsche",
+                                "model": "911 Turbo S",
+                                "year": 2024,
+                                "price": {
+                                  "msrp": 28000000,
+                                  "currency": "KES"
+                                },
+                                "specifications": {
+                                  "engine": "3.7L Twin-Turbo Flat-6",
+                                  "horsepower": 640,
+                                  "fuelType": "Petrol",
+                                  "transmission": "8-Speed PDK",
+                                  "mileage": "8 km/l"
+                                },
+                                "color": "Racing Yellow",
+                                "bodyStyle": "Sports Coupe",
+                                "images": [
+                                  "https://example.com/porsche-911-turbo-s-2024.jpg"
+                                ],
+                                "availability": true
+                              },
+                              {
+                                "make": "Volkswagen",
+                                "model": "Golf R",
+                                "year": 2024,
+                                "price": {
+                                  "msrp": 7500000,
+                                  "currency": "KES"
+                                },
+                                "specifications": {
+                                  "engine": "2.0L Turbo Inline-4",
+                                  "horsepower": 315,
+                                  "fuelType": "Petrol",
+                                  "transmission": "7-Speed DSG",
+                                  "mileage": "12 km/l"
+                                },
+                                "color": "Lapiz Blue",
+                                "bodyStyle": "Hatchback",
+                                "images": [
+                                  "https://example.com/vw-golf-r-2024.jpg"
+                                ],
+                                "availability": true
+                              },
+                              {
+                                "make": "BMW",
+                                "model": "X7 M60i",
+                                "year": 2024,
+                                "price": {
+                                  "msrp": 20500000,
+                                  "currency": "KES"
+                                },
+                                "specifications": {
+                                  "engine": "4.4L Twin-Turbo V8",
+                                  "horsepower": 523,
+                                  "fuelType": "Petrol",
+                                  "transmission": "8-Speed Automatic",
+                                  "mileage": "8 km/l"
+                                },
+                                "color": "Carbon Black",
+                                "bodyStyle": "Luxury SUV",
+                                "images": [
+                                  "https://example.com/bmw-x7-m60i-2024.jpg"
+                                ],
+                                "availability": true
+                              },
+                              {
+                                "make": "Mercedes-Benz",
+                                "model": "G63 AMG",
+                                "year": 2024,
+                                "price": {
+                                  "msrp": 30000000,
+                                  "currency": "KES"
+                                },
+                                "specifications": {
+                                  "engine": "4.0L Twin-Turbo V8",
+                                  "horsepower": 577,
+                                  "fuelType": "Petrol",
+                                  "transmission": "9-Speed Automatic",
+                                  "mileage": "6 km/l"
+                                },
+                                "color": "Matte Green",
+                                "bodyStyle": "Luxury Off-Road SUV",
+                                "images": [
+                                  "https://example.com/mercedes-g63-amg-2024.jpg"
+                                ],
+                                "availability": true
+                              },
+                              {
+                                "make": "Porsche",
+                                "model": "Cayenne Turbo GT",
+                                "year": 2024,
+                                "price": {
+                                  "msrp": 28000000,
+                                  "currency": "KES"
+                                },
+                                "specifications": {
+                                  "engine": "4.0L Twin-Turbo V8",
+                                  "horsepower": 650,
+                                  "fuelType": "Petrol",
+                                  "transmission": "8-Speed Automatic",
+                                  "mileage": "7 km/l"
+                                },
+                                "color": "Chalk Grey",
+                                "bodyStyle": "Luxury Performance SUV",
+                                "images": [
+                                  "https://example.com/porsche-cayenne-turbo-gt-2024.jpg"
+                                ],
+                                "availability": true
+                              },
+                              {
+                                "make": "Audi",
+                                "model": "Q8 e-tron",
+                                "year": 2024,
+                                "price": {
+                                  "msrp": 15500000,
+                                  "currency": "KES"
+                                },
+                                "specifications": {
+                                  "engine": "Electric",
+                                  "horsepower": 402,
+                                  "fuelType": "Electric",
+                                  "transmission": "Single-Speed",
+                                  "mileage": "450 km per charge"
+                                },
+                                "color": "Mythos Black",
+                                "bodyStyle": "Luxury Electric SUV",
+                                "images": [
+                                  "https://example.com/audi-q8-etron-2024.jpg"
+                                ],
+                                "availability": true
+                              },
+                              {
+                                "make": "Volkswagen",
+                                "model": "Touareg R",
+                                "year": 2024,
+                                "price": {
+                                  "msrp": 12000000,
+                                  "currency": "KES"
+                                },
+                                "specifications": {
+                                  "engine": "3.0L Turbocharged V6 Plug-In Hybrid",
+                                  "horsepower": 456,
+                                  "fuelType": "Hybrid",
+                                  "transmission": "8-Speed Automatic",
+                                  "mileage": "40 km/l (electric + petrol)"
+                                },
+                                "color": "Deep Blue Metallic",
+                                "bodyStyle": "Luxury Hybrid SUV",
+                                "images": [
+                                  "https://example.com/vw-touareg-r-2024.jpg"
+                                ],
+                                "availability": true
+                              },
+                                {
+                                    "make": "Toyota",
+                                    "model": "Land Cruiser 300",
+                                    "year": 2024,
+                                    "price": {
+                                    "msrp": 18000000,
+                                    "currency": "KES"
+                                    },
+                                    "specifications": {
+                                    "engine": "3.5L Twin-Turbo V6",
+                                    "horsepower": 409,
+                                    "fuelType": "Petrol",
+                                    "transmission": "10-Speed Automatic",
+                                    "mileage": "8 km/l"
+                                    },
+                                    "color": "White",
+                                    "bodyStyle": "Luxury SUV",
+                                    "images": [
+                                    "https://example.com/toyota-land-cruiser-300-2024.jpg"
+                                    ],
+                                    "availability": true
+                                },
+                                {
+                                    "make": "Nissan",
+                                    "model": "Patrol Nismo",
+                                    "year": 2024,
+                                    "price": {
+                                    "msrp": 20000000,
+                                    "currency": "KES"
+                                    },
+                                    "specifications": {
+                                    "engine": "5.6L V8",
+                                    "horsepower": 428,
+                                    "fuelType": "Petrol",
+                                    "transmission": "7-Speed Automatic",
+                                    "mileage": "6 km/l"
+                                    },
+                                    "color": "Black",
+                                    "bodyStyle": "Luxury SUV",
+                                    "images": [
+                                    "https://example.com/nissan-patrol-nismo-2024.jpg"
+                                    ],
+                                    "availability": true
+                                },
+                                {
+                                    "make": "Land Rover",
+                                    "model": "Defender V8",
+                                    "year": 2024,
+                                    "price": {
+                                    "msrp": 16000000,
+                                    "currency": "KES"
+                                    },
+                                    "specifications": {
+                                    "engine": "5.0L Supercharged V8",
+                                    "horsepower": 518,
+                                    "fuelType": "Petrol",
+                                    "transmission": "8-Speed Automatic",
+                                    "mileage": "6 km/l"
+                                    },
+                                    "color": "Santorini Black",
+                                    "bodyStyle": "Off-Road SUV",
+                                    "images": [
+                                    "https://example.com/land-rover-defender-v8-2024.jpg"
+                                    ],
+                                    "availability": true
+                                },
+                                {
+                                    "make": "BMW",
+                                    "model": "M4 CSL",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 23000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "3.0L Twin-Turbo Inline-6",
+                                      "horsepower": 543,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "9 km/l"
+                                    },
+                                    "color": "Frozen Brooklyn Grey",
+                                    "bodyStyle": "Sports Coupe",
+                                    "images": [
+                                      "https://example.com/bmw-m4-csl-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mercedes-Benz",
+                                    "model": "AMG One",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 50000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.6L Turbocharged V6 Hybrid (F1 tech)",
+                                      "horsepower": 1063,
+                                      "fuelType": "Hybrid",
+                                      "transmission": "7-Speed Automated Manual",
+                                      "mileage": "3 km/l"
+                                    },
+                                    "color": "Silver Arrows Edition",
+                                    "bodyStyle": "Hypercar",
+                                    "images": [
+                                      "https://example.com/mercedes-amg-one-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Porsche",
+                                    "model": "918 Spyder",
+                                    "year": 2015,
+                                    "price": {
+                                      "msrp": 100000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.6L V8 Hybrid",
+                                      "horsepower": 887,
+                                      "fuelType": "Hybrid",
+                                      "transmission": "7-Speed PDK",
+                                      "mileage": "13 km/l"
+                                    },
+                                    "color": "Liquid Metal Blue",
+                                    "bodyStyle": "Hypercar",
+                                    "images": [
+                                      "https://example.com/porsche-918-spyder.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Audi",
+                                    "model": "R8 V10 Performance",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 28000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "5.2L Naturally Aspirated V10",
+                                      "horsepower": 602,
+                                      "fuelType": "Petrol",
+                                      "transmission": "7-Speed Dual-Clutch",
+                                      "mileage": "7 km/l"
+                                    },
+                                    "color": "Suzuka Grey",
+                                    "bodyStyle": "Supercar",
+                                    "images": [
+                                      "https://example.com/audi-r8-v10-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Volkswagen",
+                                    "model": "Golf GTI Clubsport",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 9000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.0L Turbocharged Inline-4",
+                                      "horsepower": 296,
+                                      "fuelType": "Petrol",
+                                      "transmission": "7-Speed DSG",
+                                      "mileage": "12 km/l"
+                                    },
+                                    "color": "Kings Red Metallic",
+                                    "bodyStyle": "Hot Hatch",
+                                    "images": [
+                                      "https://example.com/vw-golf-gti-clubsport-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "BMW",
+                                    "model": "M8 Competition",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 28000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.4L Twin-Turbo V8",
+                                      "horsepower": 617,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "7 km/l"
+                                    },
+                                    "color": "Marina Bay Blue",
+                                    "bodyStyle": "Luxury Coupe",
+                                    "images": [
+                                      "https://example.com/bmw-m8-competition-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mercedes-Benz",
+                                    "model": "BRABUS 900 Rocket Edition",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 50000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.5L Twin-Turbo V8",
+                                      "horsepower": 900,
+                                      "fuelType": "Petrol",
+                                      "transmission": "9-Speed Automatic",
+                                      "mileage": "5 km/l"
+                                    },
+                                    "color": "Stealth Grey",
+                                    "bodyStyle": "Luxury SUV",
+                                    "images": [
+                                      "https://example.com/brabus-900-rocket-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Porsche",
+                                    "model": "911 GT3 RS",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 35000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Naturally Aspirated Flat-6",
+                                      "horsepower": 518,
+                                      "fuelType": "Petrol",
+                                      "transmission": "7-Speed PDK",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Shark Blue",
+                                    "bodyStyle": "Track-Focused Coupe",
+                                    "images": [
+                                      "https://example.com/porsche-911-gt3-rs-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Audi",
+                                    "model": "RS Q8",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 22000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Twin-Turbo V8",
+                                      "horsepower": 591,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "7 km/l"
+                                    },
+                                    "color": "Dragon Orange",
+                                    "bodyStyle": "Luxury SUV",
+                                    "images": [
+                                      "https://example.com/audi-rs-q8-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Volkswagen",
+                                    "model": "Arteon R",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 11000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.0L Turbocharged Inline-4",
+                                      "horsepower": 316,
+                                      "fuelType": "Petrol",
+                                      "transmission": "7-Speed DSG",
+                                      "mileage": "12 km/l"
+                                    },
+                                    "color": "Lapiz Blue",
+                                    "bodyStyle": "Luxury Sport Sedan",
+                                    "images": [
+                                      "https://example.com/vw-arteon-r-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "BMW",
+                                    "model": "M3 G80",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 19000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "3.0L Twin-Turbo Inline-6",
+                                      "horsepower": 503,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "9 km/l"
+                                    },
+                                    "color": "Isle of Man Green",
+                                    "bodyStyle": "Performance Sedan",
+                                    "images": [
+                                      "https://example.com/bmw-m3-g80-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mercedes-Benz",
+                                    "model": "C63 AMG E Performance",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 22000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.0L Turbo Hybrid Inline-4",
+                                      "horsepower": 671,
+                                      "fuelType": "Hybrid",
+                                      "transmission": "9-Speed Automatic",
+                                      "mileage": "14 km/l"
+                                    },
+                                    "color": "Obsidian Black",
+                                    "bodyStyle": "Performance Sedan",
+                                    "images": [
+                                      "https://example.com/mercedes-c63-e-performance-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Porsche",
+                                    "model": "Taycan Turbo S",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 28000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "Electric",
+                                      "horsepower": 750,
+                                      "fuelType": "Electric",
+                                      "transmission": "Single-Speed",
+                                      "mileage": "450 km per charge"
+                                    },
+                                    "color": "Frozen Berry Metallic",
+                                    "bodyStyle": "Electric Performance Sedan",
+                                    "images": [
+                                      "https://example.com/porsche-taycan-turbo-s-2024.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "BMW",
+                                    "model": "E30 M3",
+                                    "year": 1990,
+                                    "price": {
+                                      "msrp": 8000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.3L Naturally Aspirated Inline-4",
+                                      "horsepower": 192,
+                                      "fuelType": "Petrol",
+                                      "transmission": "5-Speed Manual",
+                                      "mileage": "10 km/l"
+                                    },
+                                    "color": "Henna Red",
+                                    "bodyStyle": "Classic Coupe",
+                                    "images": [
+                                      "https://example.com/bmw-e30-m3.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mercedes-Benz",
+                                    "model": "190E 2.5-16 Evolution II",
+                                    "year": 1990,
+                                    "price": {
+                                      "msrp": 15000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.5L Naturally Aspirated Inline-4",
+                                      "horsepower": 232,
+                                      "fuelType": "Petrol",
+                                      "transmission": "5-Speed Manual",
+                                      "mileage": "9 km/l"
+                                    },
+                                    "color": "Blue-Black Metallic",
+                                    "bodyStyle": "Classic Sport Sedan",
+                                    "images": [
+                                      "https://example.com/mercedes-190e-evo2.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Porsche",
+                                    "model": "911 Carrera RS 2.7",
+                                    "year": 1973,
+                                    "price": {
+                                      "msrp": 50000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.7L Naturally Aspirated Flat-6",
+                                      "horsepower": 210,
+                                      "fuelType": "Petrol",
+                                      "transmission": "5-Speed Manual",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Grand Prix White",
+                                    "bodyStyle": "Classic Coupe",
+                                    "images": [
+                                      "https://example.com/porsche-911-carrera-rs.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Audi",
+                                    "model": "RS6 Avant ABT",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 28000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Twin-Turbo V8",
+                                      "horsepower": 730,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "7 km/l"
+                                    },
+                                    "color": "Mythos Black",
+                                    "bodyStyle": "Super Wagon",
+                                    "images": [
+                                      "https://example.com/audi-rs6-avant-abt.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "BMW",
+                                    "model": "M5 CS",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 27000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.4L Twin-Turbo V8",
+                                      "horsepower": 627,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Frozen Deep Green Metallic",
+                                    "bodyStyle": "Super Sedan",
+                                    "images": [
+                                      "https://example.com/bmw-m5-cs.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mercedes-Benz",
+                                    "model": "S63 AMG E Performance",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 30000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Twin-Turbo V8 Hybrid",
+                                      "horsepower": 791,
+                                      "fuelType": "Hybrid",
+                                      "transmission": "9-Speed Automatic",
+                                      "mileage": "10 km/l"
+                                    },
+                                    "color": "Obsidian Black",
+                                    "bodyStyle": "Luxury Super Sedan",
+                                    "images": [
+                                      "https://example.com/mercedes-s63-amg.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Porsche",
+                                    "model": "918 Spyder Weissach Package",
+                                    "year": 2015,
+                                    "price": {
+                                      "msrp": 120000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.6L V8 Hybrid",
+                                      "horsepower": 887,
+                                      "fuelType": "Hybrid",
+                                      "transmission": "7-Speed PDK",
+                                      "mileage": "13 km/l"
+                                    },
+                                    "color": "Voodoo Blue",
+                                    "bodyStyle": "Hypercar",
+                                    "images": [
+                                      "https://example.com/porsche-918-spyder-weissach.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Volkswagen",
+                                    "model": "Golf R 20 Years Edition",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 9000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.0L Turbocharged Inline-4",
+                                      "horsepower": 328,
+                                      "fuelType": "Petrol",
+                                      "transmission": "7-Speed DSG",
+                                      "mileage": "12 km/l"
+                                    },
+                                    "color": "Lapiz Blue",
+                                    "bodyStyle": "Hot Hatch",
+                                    "images": [
+                                      "https://example.com/vw-golf-r-20-years.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "ABT",
+                                    "model": "RS7-R",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 32000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Twin-Turbo V8",
+                                      "horsepower": 740,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "6 km/l"
+                                    },
+                                    "color": "Daytona Grey",
+                                    "bodyStyle": "Super Sedan",
+                                    "images": [
+                                      "https://example.com/abt-rs7-r.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mansory",
+                                    "model": "Mercedes-AMG G63 P900",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 75000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Twin-Turbo V8",
+                                      "horsepower": 900,
+                                      "fuelType": "Petrol",
+                                      "transmission": "9-Speed Automatic",
+                                      "mileage": "6 km/l"
+                                    },
+                                    "color": "Full Carbon Black",
+                                    "bodyStyle": "Luxury Widebody SUV",
+                                    "images": [
+                                      "https://example.com/mansory-g63-p900.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mansory",
+                                    "model": "Porsche Cayenne Turbo GT",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 50000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Twin-Turbo V8",
+                                      "horsepower": 800,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "7 km/l"
+                                    },
+                                    "color": "Signal Green",
+                                    "bodyStyle": "Luxury Performance SUV",
+                                    "images": [
+                                      "https://example.com/mansory-cayenne-gt.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mansory",
+                                    "model": "Audi RS7 Sportback",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 42000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Twin-Turbo V8",
+                                      "horsepower": 780,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Satin Yellow",
+                                    "bodyStyle": "Widebody Super Sedan",
+                                    "images": [
+                                      "https://example.com/mansory-audi-rs7.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mansory",
+                                    "model": "Lamborghini Urus Venatus",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 120000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Twin-Turbo V8",
+                                      "horsepower": 900,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "5 km/l"
+                                    },
+                                    "color": "Electric Blue Carbon",
+                                    "bodyStyle": "Hyper SUV",
+                                    "images": [
+                                      "https://example.com/mansory-urus-venatus.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mansory",
+                                    "model": "Mercedes-AMG S63 Black Edition",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 68000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Twin-Turbo V8 Hybrid",
+                                      "horsepower": 950,
+                                      "fuelType": "Hybrid",
+                                      "transmission": "9-Speed Automatic",
+                                      "mileage": "9 km/l"
+                                    },
+                                    "color": "Matte Black",
+                                    "bodyStyle": "Ultra-Luxury Super Sedan",
+                                    "images": [
+                                      "https://example.com/mansory-s63-black.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mansory",
+                                    "model": "Porsche Taycan Turbo S",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 55000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "Electric",
+                                      "horsepower": 1050,
+                                      "fuelType": "Electric",
+                                      "transmission": "Single-Speed",
+                                      "mileage": "450 km per charge"
+                                    },
+                                    "color": "Full Forged Carbon",
+                                    "bodyStyle": "Electric Hyper Sedan",
+                                    "images": [
+                                      "https://example.com/mansory-taycan.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Rolls-Royce",
+                                    "model": "Phantom Extended",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 120000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "6.75L Twin-Turbo V12",
+                                      "horsepower": 563,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "7 km/l"
+                                    },
+                                    "color": "Arctic White",
+                                    "bodyStyle": "Ultra-Luxury Sedan",
+                                    "images": [
+                                      "https://example.com/rolls-phantom.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Rolls-Royce",
+                                    "model": "Ghost Black Badge",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 95000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "6.75L Twin-Turbo V12",
+                                      "horsepower": 600,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Obsidian Black",
+                                    "bodyStyle": "Luxury Sedan",
+                                    "images": [
+                                      "https://example.com/rolls-ghost-black-badge.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Rolls-Royce",
+                                    "model": "Cullinan",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 100000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "6.75L Twin-Turbo V12",
+                                      "horsepower": 563,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "6 km/l"
+                                    },
+                                    "color": "Midnight Sapphire",
+                                    "bodyStyle": "Ultra-Luxury SUV",
+                                    "images": [
+                                      "https://example.com/rolls-cullinan.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Rolls-Royce",
+                                    "model": "Wraith",
+                                    "year": 2023,
+                                    "price": {
+                                      "msrp": 85000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "6.6L Twin-Turbo V12",
+                                      "horsepower": 624,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Gunmetal Grey",
+                                    "bodyStyle": "Luxury Coupe",
+                                    "images": [
+                                      "https://example.com/rolls-wraith.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Rolls-Royce",
+                                    "model": "Dawn",
+                                    "year": 2023,
+                                    "price": {
+                                      "msrp": 90000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "6.6L Twin-Turbo V12",
+                                      "horsepower": 563,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Bespoke Sunset Orange",
+                                    "bodyStyle": "Luxury Convertible",
+                                    "images": [
+                                      "https://example.com/rolls-dawn.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Rolls-Royce",
+                                    "model": "Spectre",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 140000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "Electric",
+                                      "horsepower": 585,
+                                      "fuelType": "Electric",
+                                      "transmission": "Single-Speed",
+                                      "mileage": "520 km per charge"
+                                    },
+                                    "color": "Moonstone Pearl",
+                                    "bodyStyle": "Luxury Electric Coupe",
+                                    "images": [
+                                      "https://example.com/rolls-spectre.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mansory",
+                                    "model": "Rolls-Royce Cullinan Coastline",
+                                    "year": 2024,
+                                    "price": {
+                                      "msrp": 150000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "6.75L Twin-Turbo V12",
+                                      "horsepower": 650,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "5 km/l"
+                                    },
+                                    "color": "Bespoke Tiffany Blue",
+                                    "bodyStyle": "Ultra-Luxury Custom SUV",
+                                    "images": [
+                                      "https://example.com/mansory-cullinan-coastline.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Coachbuild",
+                                    "model": "Rolls-Royce Boat Tail",
+                                    "year": 2023,
+                                    "price": {
+                                      "msrp": 350000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "6.75L Twin-Turbo V12",
+                                      "horsepower": 563,
+                                      "fuelType": "Petrol",
+                                      "transmission": "8-Speed Automatic",
+                                      "mileage": "6 km/l"
+                                    },
+                                    "color": "Bespoke Oceanic Blue",
+                                    "bodyStyle": "Bespoke Ultra-Luxury Grand Tourer",
+                                    "images": [
+                                      "https://example.com/rolls-boat-tail.jpg"
+                                    ],
+                                    "availability": false
+                                  },
+                                  {
+                                    "make": "Toyota",
+                                    "model": "Vitz",
+                                    "year": 2016,
+                                    "price": {
+                                      "msrp": 850000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.0L Inline-3",
+                                      "horsepower": 69,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Automatic / Manual",
+                                      "mileage": "18 km/l"
+                                    },
+                                    "color": "Silver, White, Black",
+                                    "bodyStyle": "Hatchback",
+                                    "images": [
+                                      "https://example.com/toyota-vitz.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Nissan",
+                                    "model": "Note",
+                                    "year": 2017,
+                                    "price": {
+                                      "msrp": 900000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.2L Inline-3",
+                                      "horsepower": 79,
+                                      "fuelType": "Petrol / Hybrid",
+                                      "transmission": "CVT",
+                                      "mileage": "22 km/l"
+                                    },
+                                    "color": "Blue, Grey, Red",
+                                    "bodyStyle": "Hatchback",
+                                    "images": [
+                                      "https://example.com/nissan-note.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mazda",
+                                    "model": "Demio",
+                                    "year": 2017,
+                                    "price": {
+                                      "msrp": 950000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.3L SkyActiv",
+                                      "horsepower": 91,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Automatic / Manual",
+                                      "mileage": "20 km/l"
+                                    },
+                                    "color": "Red, Black, Silver",
+                                    "bodyStyle": "Hatchback",
+                                    "images": [
+                                      "https://example.com/mazda-demio.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Suzuki",
+                                    "model": "Alto",
+                                    "year": 2018,
+                                    "price": {
+                                      "msrp": 750000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "0.8L Inline-3",
+                                      "horsepower": 48,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual / Automatic",
+                                      "mileage": "23 km/l"
+                                    },
+                                    "color": "White, Grey, Blue",
+                                    "bodyStyle": "Compact Hatchback",
+                                    "images": [
+                                      "https://example.com/suzuki-alto.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Honda",
+                                    "model": "Fit",
+                                    "year": 2017,
+                                    "price": {
+                                      "msrp": 950000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.3L i-VTEC",
+                                      "horsepower": 100,
+                                      "fuelType": "Petrol / Hybrid",
+                                      "transmission": "CVT",
+                                      "mileage": "20 km/l"
+                                    },
+                                    "color": "Silver, Blue, White",
+                                    "bodyStyle": "Hatchback",
+                                    "images": [
+                                      "https://example.com/honda-fit.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Toyota",
+                                    "model": "Axio",
+                                    "year": 2016,
+                                    "price": {
+                                      "msrp": 1300000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.5L Hybrid",
+                                      "horsepower": 109,
+                                      "fuelType": "Petrol / Hybrid",
+                                      "transmission": "CVT",
+                                      "mileage": "25 km/l"
+                                    },
+                                    "color": "White, Black, Silver",
+                                    "bodyStyle": "Sedan",
+                                    "images": [
+                                      "https://example.com/toyota-axio.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Volkswagen",
+                                    "model": "Polo",
+                                    "year": 2018,
+                                    "price": {
+                                      "msrp": 1300000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.0L TSI",
+                                      "horsepower": 94,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Automatic / Manual",
+                                      "mileage": "21 km/l"
+                                    },
+                                    "color": "Red, White, Grey",
+                                    "bodyStyle": "Hatchback",
+                                    "images": [
+                                      "https://example.com/vw-polo.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Subaru",
+                                    "model": "Impreza",
+                                    "year": 2016,
+                                    "price": {
+                                      "msrp": 1400000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.6L Boxer",
+                                      "horsepower": 114,
+                                      "fuelType": "Petrol",
+                                      "transmission": "CVT",
+                                      "mileage": "16 km/l"
+                                    },
+                                    "color": "Blue, Black, Silver",
+                                    "bodyStyle": "Sedan",
+                                    "images": [
+                                      "https://example.com/subaru-impreza.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Toyota",
+                                    "model": "Premio",
+                                    "year": 2016,
+                                    "price": {
+                                      "msrp": 1800000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.5L / 1.8L / 2.0L Petrol",
+                                      "horsepower": 150,
+                                      "fuelType": "Petrol",
+                                      "transmission": "CVT",
+                                      "mileage": "17 km/l"
+                                    },
+                                    "color": "White, Silver, Black",
+                                    "bodyStyle": "Sedan",
+                                    "images": [
+                                      "https://example.com/toyota-premio.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Nissan",
+                                    "model": "X-Trail",
+                                    "year": 2017,
+                                    "price": {
+                                      "msrp": 2500000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.0L / 2.5L Petrol",
+                                      "horsepower": 169,
+                                      "fuelType": "Petrol / Hybrid",
+                                      "transmission": "CVT",
+                                      "mileage": "14 km/l"
+                                    },
+                                    "color": "Black, White, Grey",
+                                    "bodyStyle": "SUV",
+                                    "images": [
+                                      "https://example.com/nissan-xtrail.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mazda",
+                                    "model": "CX-5",
+                                    "year": 2017,
+                                    "price": {
+                                      "msrp": 2700000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.0L / 2.5L SkyActiv Petrol",
+                                      "horsepower": 187,
+                                      "fuelType": "Petrol / Diesel",
+                                      "transmission": "Automatic / Manual",
+                                      "mileage": "15 km/l"
+                                    },
+                                    "color": "Red, Blue, Grey",
+                                    "bodyStyle": "SUV",
+                                    "images": [
+                                      "https://example.com/mazda-cx5.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Honda",
+                                    "model": "CR-V",
+                                    "year": 2016,
+                                    "price": {
+                                      "msrp": 2600000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.0L i-VTEC",
+                                      "horsepower": 155,
+                                      "fuelType": "Petrol",
+                                      "transmission": "CVT",
+                                      "mileage": "12 km/l"
+                                    },
+                                    "color": "Black, Silver, White",
+                                    "bodyStyle": "SUV",
+                                    "images": [
+                                      "https://example.com/honda-crv.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Subaru",
+                                    "model": "Forester",
+                                    "year": 2017,
+                                    "price": {
+                                      "msrp": 2800000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.0L / 2.5L Boxer Petrol",
+                                      "horsepower": "250 (Turbo)",
+                                      "fuelType": "Petrol",
+                                      "transmission": "CVT / Manual",
+                                      "mileage": "12 km/l"
+                                    },
+                                    "color": "Silver, Grey, Blue",
+                                    "bodyStyle": "SUV",
+                                    "images": [
+                                      "https://example.com/subaru-forester.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Volkswagen",
+                                    "model": "Passat",
+                                    "year": 2017,
+                                    "price": {
+                                      "msrp": 2000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.4L / 2.0L TSI",
+                                      "horsepower": 220,
+                                      "fuelType": "Petrol / Diesel",
+                                      "transmission": "Automatic (DSG)",
+                                      "mileage": "16 km/l"
+                                    },
+                                    "color": "Black, Silver, Blue",
+                                    "bodyStyle": "Sedan",
+                                    "images": [
+                                      "https://example.com/vw-passat.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Mercedes-Benz",
+                                    "model": "280SE",
+                                    "year": 1972,
+                                    "price": {
+                                      "msrp": 3500000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.8L Inline-6",
+                                      "horsepower": 160,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Automatic / Manual",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Black, Silver, Blue",
+                                    "bodyStyle": "Sedan",
+                                    "images": [
+                                      "https://example.com/mercedes-280se.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Toyota",
+                                    "model": "Land Cruiser FJ40",
+                                    "year": 1978,
+                                    "price": {
+                                      "msrp": 4000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.2L Inline-6",
+                                      "horsepower": 135,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "7 km/l"
+                                    },
+                                    "color": "Beige, Green, Red",
+                                    "bodyStyle": "SUV",
+                                    "images": [
+                                      "https://example.com/toyota-fj40.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Volkswagen",
+                                    "model": "Beetle",
+                                    "year": 1967,
+                                    "price": {
+                                      "msrp": 1800000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.3L Flat-4",
+                                      "horsepower": 50,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "12 km/l"
+                                    },
+                                    "color": "Blue, Yellow, White",
+                                    "bodyStyle": "Compact Coupe",
+                                    "images": [
+                                      "https://example.com/vw-beetle.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Ford",
+                                    "model": "Mustang",
+                                    "year": 1969,
+                                    "price": {
+                                      "msrp": 6500000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "5.0L V8",
+                                      "horsepower": 290,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual / Automatic",
+                                      "mileage": "6 km/l"
+                                    },
+                                    "color": "Red, Black, Blue",
+                                    "bodyStyle": "Coupe",
+                                    "images": [
+                                      "https://example.com/ford-mustang.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Chevrolet",
+                                    "model": "Impala",
+                                    "year": 1964,
+                                    "price": {
+                                      "msrp": 5500000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "5.4L V8",
+                                      "horsepower": 250,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Automatic",
+                                      "mileage": "5 km/l"
+                                    },
+                                    "color": "Black, Red, White",
+                                    "bodyStyle": "Sedan / Coupe",
+                                    "images": [
+                                      "https://example.com/chevy-impala.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Porsche",
+                                    "model": "911 Carrera",
+                                    "year": 1973,
+                                    "price": {
+                                      "msrp": 9000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.7L Flat-6",
+                                      "horsepower": 210,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Orange, White, Yellow",
+                                    "bodyStyle": "Sports Coupe",
+                                    "images": [
+                                      "https://example.com/porsche-911.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Jaguar",
+                                    "model": "E-Type",
+                                    "year": 1965,
+                                    "price": {
+                                      "msrp": 12000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.2L Inline-6",
+                                      "horsepower": 265,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "7 km/l"
+                                    },
+                                    "color": "British Racing Green, Red, White",
+                                    "bodyStyle": "Coupe / Convertible",
+                                    "images": [
+                                      "https://example.com/jaguar-etype.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Rolls-Royce",
+                                    "model": "Silver Shadow",
+                                    "year": 1972,
+                                    "price": {
+                                      "msrp": 15000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "6.75L V8",
+                                      "horsepower": 189,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Automatic",
+                                      "mileage": "5 km/l"
+                                    },
+                                    "color": "Black, Silver, Burgundy",
+                                    "bodyStyle": "Luxury Sedan",
+                                    "images": [
+                                      "https://example.com/rolls-royce-silver-shadow.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Datsun",
+                                    "model": "240Z",
+                                    "year": 1970,
+                                    "price": {
+                                      "msrp": 7000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "2.4L Inline-6",
+                                      "horsepower": 151,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "10 km/l"
+                                    },
+                                    "color": "Orange, Blue, Silver",
+                                    "bodyStyle": "Sports Coupe",
+                                    "images": [
+                                      "https://example.com/datsun-240z.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Chevrolet",
+                                    "model": "Corvette Stingray",
+                                    "year": 1967,
+                                    "price": {
+                                      "msrp": 13000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "7.0L V8",
+                                      "horsepower": 435,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "6 km/l"
+                                    },
+                                    "color": "Red, Blue, White",
+                                    "bodyStyle": "Sports Coupe",
+                                    "images": [
+                                      "https://example.com/chevy-corvette-stingray.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "BMW",
+                                    "model": "E9 3.0 CSL",
+                                    "year": 1973,
+                                    "price": {
+                                      "msrp": 18000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "3.0L Inline-6",
+                                      "horsepower": 206,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Silver, White, Yellow",
+                                    "bodyStyle": "Coupe",
+                                    "images": [
+                                      "https://example.com/bmw-3.0-csl.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Porsche",
+                                    "model": "356 Speedster",
+                                    "year": 1955,
+                                    "price": {
+                                      "msrp": 25000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "1.6L Flat-4",
+                                      "horsepower": 60,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "12 km/l"
+                                    },
+                                    "color": "Black, Silver, Red",
+                                    "bodyStyle": "Convertible",
+                                    "images": [
+                                      "https://example.com/porsche-356.jpg"
+                                    ],
+                                    "availability": true
+                                  },
+                                  {
+                                    "make": "Ferrari",
+                                    "model": "250 GTO",
+                                    "year": 1962,
+                                    "price": {
+                                      "msrp": 550000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "3.0L V12",
+                                      "horsepower": 296,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "4 km/l"
+                                    },
+                                    "color": "Rosso Corsa, Blue, Silver",
+                                    "bodyStyle": "Coupe",
+                                    "images": [
+                                      "https://example.com/ferrari-250-gto.jpg"
+                                    ],
+                                    "availability": false
+                                  },
+                                  {
+                                    "make": "Lamborghini",
+                                    "model": "Miura P400",
+                                    "year": 1966,
+                                    "price": {
+                                      "msrp": 120000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "3.9L V12",
+                                      "horsepower": 350,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "5 km/l"
+                                    },
+                                    "color": "Yellow, Green, Orange",
+                                    "bodyStyle": "Sports Coupe",
+                                    "images": [
+                                      "https://example.com/lamborghini-miura.jpg"
+                                    ],
+                                    "availability": false
+                                  },
+                                  {
+                                    "make": "Aston Martin",
+                                    "model": "DB5",
+                                    "year": 1964,
+                                    "price": {
+                                      "msrp": 90000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "4.0L Inline-6",
+                                      "horsepower": 282,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "7 km/l"
+                                    },
+                                    "color": "Silver, Black, Green",
+                                    "bodyStyle": "Grand Tourer",
+                                    "images": [
+                                      "https://example.com/aston-martin-db5.jpg"
+                                    ],
+                                    "availability": false
+                                  },
+                                  {
+                                    "make": "Ford",
+                                    "model": "GT40",
+                                    "year": 1966,
+                                    "price": {
+                                      "msrp": 150000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "7.0L V8",
+                                      "horsepower": 485,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "4 km/l"
+                                    },
+                                    "color": "Blue, Gulf Livery, Red",
+                                    "bodyStyle": "Racing Coupe",
+                                    "images": [
+                                      "https://example.com/ford-gt40.jpg"
+                                    ],
+                                    "availability": false
+                                  },
+                                  {
+                                    "make": "Mercedes-Benz",
+                                    "model": "300SL Gullwing",
+                                    "year": 1955,
+                                    "price": {
+                                      "msrp": 220000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "3.0L Inline-6",
+                                      "horsepower": 215,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "8 km/l"
+                                    },
+                                    "color": "Silver, Red, Blue",
+                                    "bodyStyle": "Coupe",
+                                    "images": [
+                                      "https://example.com/mercedes-300sl.jpg"
+                                    ],
+                                    "availability": false
+                                  },
+                                  {
+                                    "make": "Bugatti",
+                                    "model": "Type 57SC Atlantic",
+                                    "year": 1936,
+                                    "price": {
+                                      "msrp": 1000000000,
+                                      "currency": "KES"
+                                    },
+                                    "specifications": {
+                                      "engine": "3.3L Inline-8",
+                                      "horsepower": 197,
+                                      "fuelType": "Petrol",
+                                      "transmission": "Manual",
+                                      "mileage": "5 km/l"
+                                    },
+                                    "color": "Dark Blue, Black",
+                                    "bodyStyle": "Luxury Coupe",
+                                    "images": [
+                                      "https://example.com/bugatti-atlantic.jpg"
+                                    ],
+                                    "availability": false
+                                  },
+                                    {
+                                        "make": "Rolls-Royce",
+                                        "model": "Phantom III",
+                                        "year": 1936,
+                                        "price": {
+                                        "msrp": 800000000,
+                                        "currency": "KES"
+                                        },
+                                        "specifications": {
+                                        "engine": "7.3L V12",
+                                        "horsepower": 165,
+                                        "fuelType": "Petrol",
+                                        "transmission": "Manual",
+                                        "mileage": "4 km/l"
+                                        },
+                                        "color": "Black, Silver, Blue",
+                                        "bodyStyle": "Luxury Sedan",
+                                        "images": [
+                                        "https://example.com/rolls-royce-phantom.jpg"
+                                        ],
+                                        "availability": false
+                                    },
+                                    {
+                                        "make": "Ferrari",
+                                        "model": "250 Testa Rossa",
+                                        "year": 1957,
+                                        "price": {
+                                        "msrp": 1500000000,
+                                        "currency": "KES"
+                                        },
+                                        "specifications": {
+                                        "engine": "3.0L V12",
+                                        "horsepower": 300,
+                                        "fuelType": "Petrol",
+                                        "transmission": "Manual",
+                                        "mileage": "4 km/l"
+                                        },
+                                        "color": "Rosso Corsa, Yellow, Silver",
+                                        "bodyStyle": "Racing Coupe",
+                                        "images": [
+                                        "https://example.com/ferrari-250-testa-rossa.jpg"
+                                        ],
+                                        "availability": false
+                                    },
+                                    {
+                                        "make": "Lamborghini",
+                                        "model": "Countach LP400",
+                                        "year": 1974,
+                                        "price": {
+                                        "msrp": 200000000,
+                                        "currency": "KES"
+                                        },
+                                        "specifications": {
+                                        "engine": "4.0L V12",
+                                        "horsepower": 375,
+                                        "fuelType": "Petrol",
+                                        "transmission": "Manual",
+                                        "mileage": "5 km/l"
+                                        },
+                                        "color": "Red, White, Blue",
+                                        "bodyStyle": "Sports Coupe",
+                                        "images": [
+                                        "https://example.com/lamborghini-countach.jpg"
+                                        ],
+                                        "availability": false
+                                    },
+                                    {
+                                        "make": "Aston Martin",
+                                        "model": "DB4 GT Zagato",
+                                        "year": 1960,
+                                        "price": {
+                                        "msrp": 180000000,
+                                        "currency": "KES"
+                                        },
+                                        "specifications": {
+                                        "engine": "3.7L Inline-6",
+                                        "horsepower": 314,
+                                        "fuelType": "Petrol",
+                                        "transmission": "Manual",
+                                        "mileage": "6 km/l"
+                                        },
+                                        "color": "British Racing Green, Silver, Blue",
+                                        "bodyStyle": "Sports Coupe",
+                                        "images": [
+                                        "https://example.com/aston-martin-db4-zagato.jpg"
+                                        ],
+                                        "availability": false
+                                    },
+                                    {
+                                        "make": "Toyota",
+                                        "model": "Noah",
+                                        "year": 2018,
+                                        "price": {
+                                          "msrp": 2500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.0L Inline-4",
+                                          "horsepower": 150,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic CVT",
+                                          "mileage": "12 km/l"
+                                        },
+                                        "color": "Silver, Black, White",
+                                        "bodyStyle": "Minivan",
+                                        "images": [
+                                          "https://example.com/toyota-noah.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Suzuki",
+                                        "model": "Swift",
+                                        "year": 2022,
+                                        "price": {
+                                          "msrp": 1500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.2L Inline-4",
+                                          "horsepower": 90,
+                                          "fuelType": "Petrol",
+                                          "transmission": "CVT",
+                                          "mileage": "18 km/l"
+                                        },
+                                        "color": "Red, Blue, Silver",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/suzuki-swift.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mazda",
+                                        "model": "Atenza",
+                                        "year": 2019,
+                                        "price": {
+                                          "msrp": 3200000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.5L Inline-4",
+                                          "horsepower": 187,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "14 km/l"
+                                        },
+                                        "color": "Grey, Red, Black",
+                                        "bodyStyle": "Sedan",
+                                        "images": [
+                                          "https://example.com/mazda-atenza.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Subaru",
+                                        "model": "Forester XT",
+                                        "year": 2017,
+                                        "price": {
+                                          "msrp": 3500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.0L Turbo Boxer-4",
+                                          "horsepower": 250,
+                                          "fuelType": "Petrol",
+                                          "transmission": "CVT",
+                                          "mileage": "12 km/l"
+                                        },
+                                        "color": "White, Silver, Blue",
+                                        "bodyStyle": "SUV",
+                                        "images": [
+                                          "https://example.com/subaru-forester.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Volkswagen",
+                                        "model": "Polo Vivo",
+                                        "year": 2021,
+                                        "price": {
+                                          "msrp": 1700000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.6L Inline-4",
+                                          "horsepower": 105,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "16 km/l"
+                                        },
+                                        "color": "White, Red, Silver",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/vw-polo.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Isuzu",
+                                        "model": "D-Max",
+                                        "year": 2023,
+                                        "price": {
+                                          "msrp": 4500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "3.0L Turbo Diesel",
+                                          "horsepower": 190,
+                                          "fuelType": "Diesel",
+                                          "transmission": "Automatic",
+                                          "mileage": "11 km/l"
+                                        },
+                                        "color": "Black, Grey, White",
+                                        "bodyStyle": "Pickup Truck",
+                                        "images": [
+                                          "https://example.com/isuzu-dmax.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "G-Wagon G63 AMG",
+                                        "year": 2021,
+                                        "price": {
+                                          "msrp": 30000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "4.0L Twin-Turbo V8",
+                                          "horsepower": 577,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "6 km/l"
+                                        },
+                                        "color": "Black, White, Silver",
+                                        "bodyStyle": "Luxury SUV",
+                                        "images": [
+                                          "https://example.com/mercedes-g63.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Range Rover",
+                                        "model": "Vogue",
+                                        "year": 2022,
+                                        "price": {
+                                          "msrp": 25000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "5.0L Supercharged V8",
+                                          "horsepower": 518,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "7 km/l"
+                                        },
+                                        "color": "Black, White, Silver",
+                                        "bodyStyle": "Luxury SUV",
+                                        "images": [
+                                          "https://example.com/range-rover-vogue.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Toyota",
+                                        "model": "Land Cruiser Prado",
+                                        "year": 2022,
+                                        "price": {
+                                          "msrp": 7000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.8L Turbo Diesel",
+                                          "horsepower": 201,
+                                          "fuelType": "Diesel",
+                                          "transmission": "Automatic",
+                                          "mileage": "10 km/l"
+                                        },
+                                        "color": "White, Black, Silver",
+                                        "bodyStyle": "SUV",
+                                        "images": [
+                                          "https://example.com/toyota-prado.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Nissan",
+                                        "model": "Navara",
+                                        "year": 2022,
+                                        "price": {
+                                          "msrp": 4500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.5L Turbo Diesel",
+                                          "horsepower": 187,
+                                          "fuelType": "Diesel",
+                                          "transmission": "Automatic",
+                                          "mileage": "11 km/l"
+                                        },
+                                        "color": "White, Black, Silver",
+                                        "bodyStyle": "Pickup Truck",
+                                        "images": [
+                                          "https://example.com/nissan-navara.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Ford",
+                                        "model": "Ranger",
+                                        "year": 2022,
+                                        "price": {
+                                          "msrp": 4000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.0L Turbo Diesel",
+                                          "horsepower": 210,
+                                          "fuelType": "Diesel",
+                                          "transmission": "Automatic",
+                                          "mileage": "12 km/l"
+                                        },
+                                        "color": "White, Black, Silver",
+                                        "bodyStyle": "Pickup Truck",
+                                        "images": [
+                                          "https://example.com/ford-ranger.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Jeep",
+                                        "model": "Wrangler",
+                                        "year": 2022,
+                                        "price": {
+                                          "msrp":
+                                          5000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "3.6L V6",
+                                          "horsepower": 285,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "8 km/l"
+                                        },
+                                        "color": "White, Black, Silver",
+                                        "bodyStyle": "SUV",
+                                        "images": [
+                                          "https://example.com/jeep-wrangler.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Toyota",
+                                        "model": "Vitz",
+                                        "year": 2017,
+                                        "price": {
+                                          "msrp": 950000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.0L Inline-3",
+                                          "horsepower": 69,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic CVT",
+                                          "mileage": "20 km/l"
+                                        },
+                                        "color": "Red, Blue, Silver, White",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/toyota-vitz.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Honda",
+                                        "model": "Fit",
+                                        "year": 2018,
+                                        "price": {
+                                          "msrp": 1000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.3L Inline-4",
+                                          "horsepower": 99,
+                                          "fuelType": "Petrol",
+                                          "transmission": "CVT",
+                                          "mileage": "19 km/l"
+                                        },
+                                        "color": "Black, White, Grey, Blue",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/honda-fit.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Nissan",
+                                        "model": "Note",
+                                        "year": 2018,
+                                        "price": {
+                                          "msrp": 1050000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.2L Inline-3",
+                                          "horsepower": 79,
+                                          "fuelType": "Petrol",
+                                          "transmission": "CVT",
+                                          "mileage": "22 km/l"
+                                        },
+                                        "color": "Silver, Black, Blue, White",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/nissan-note.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Toyota",
+                                        "model": "Harrier",
+                                        "year": 2020,
+                                        "price": {
+                                          "msrp": 4800000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.0L Inline-4",
+                                          "horsepower": 171,
+                                          "fuelType": "Petrol",
+                                          "transmission": "CVT",
+                                          "mileage": "15 km/l"
+                                        },
+                                        "color": "Black, White, Grey",
+                                        "bodyStyle": "SUV",
+                                        "images": [
+                                          "https://example.com/toyota-harrier.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mitsubishi",
+                                        "model": "Pajero",
+                                        "year": 2019,
+                                        "price": {
+                                          "msrp": 5500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "3.2L Turbo Diesel",
+                                          "horsepower": 200,
+                                          "fuelType": "Diesel",
+                                          "transmission": "Automatic",
+                                          "mileage": "10 km/l"
+                                        },
+                                        "color": "White, Black, Grey",
+                                        "bodyStyle": "SUV",
+                                        "images": [
+                                          "https://example.com/mitsubishi-pajero.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Toyota",
+                                        "model": "Prado TX",
+                                        "year": 2021,
+                                        "price": {
+                                          "msrp": 8500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.8L Turbo Diesel",
+                                          "horsepower": 204,
+                                          "fuelType": "Diesel",
+                                          "transmission": "Automatic",
+                                          "mileage": "12 km/l"
+                                        },
+                                        "color": "White, Black, Silver",
+                                        "bodyStyle": "SUV",
+                                        "images": [
+                                          "https://example.com/toyota-prado.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Nissan",
+                                        "model": "X-Trail",
+                                        "year": 2019,
+                                        "price": {
+                                          "msrp": 3500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.0L Inline-4",
+                                          "horsepower": 144,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "14 km/l"
+                                        },
+                                        "color": "Silver, Black, White",
+                                        "bodyStyle": "SUV",
+                                        "images": [
+                                          "https://example.com/nissan-xtrail.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Isuzu",
+                                        "model": "NPR",
+                                        "year": 2023,
+                                        "price": {
+                                          "msrp": 4500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "3.0L Turbo Diesel",
+                                          "horsepower": 150,
+                                          "fuelType": "Diesel",
+                                          "transmission": "Manual",
+                                          "mileage": "9 km/l"
+                                        },
+                                        "color": "White",
+                                        "bodyStyle": "Light Commercial Truck",
+                                        "images": [
+                                          "https://example.com/isuzu-npr.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Toyota",
+                                        "model": "HiAce Matatu",
+                                        "year": 2020,
+                                        "price": {
+                                          "msrp": 3800000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.8L Diesel",
+                                          "horsepower": 174,
+                                          "fuelType": "Diesel",
+                                          "transmission": "Manual",
+                                          "mileage": "10 km/l"
+                                        },
+                                        "color": "White, Yellow",
+                                        "bodyStyle": "Passenger Van",
+                                        "images": [
+                                          "https://example.com/toyota-hiace.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mazda",
+                                        "model": "Demio",
+                                        "year": 2019,
+                                        "price": {
+                                          "msrp": 1100000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.3L Inline-4",
+                                          "horsepower": 92,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "20 km/l"
+                                        },
+                                        "color": "Red, Silver, White, Blue",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/mazda-demio.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Volkswagen",
+                                        "model": "Polo",
+                                        "year": 2020,
+                                        "price": {
+                                          "msrp": 1800000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.2L Turbo Inline-4",
+                                          "horsepower": 110,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "17 km/l"
+                                        },
+                                        "color": "Blue, Black, White",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/vw-polo.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Suzuki",
+                                        "model": "Swift",
+                                        "year": 2021,
+                                        "price": {
+                                          "msrp": 1400000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.2L Inline-4",
+                                          "horsepower": 82,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "21 km/l"
+                                        },
+                                        "color": "White, Red, Blue, Black",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/suzuki-swift.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Ford",
+                                        "model": "Fiesta",
+                                        "year": 2017,
+                                        "price": {
+                                          "msrp": 1600000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.5L Inline-4",
+                                          "horsepower": 120,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "16 km/l"
+                                        },
+                                        "color": "Blue, Red, White, Black",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/ford-fiesta.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "BMW",
+                                        "model": "1 Series",
+                                        "year": 2020,
+                                        "price": {
+                                          "msrp": 3500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.5L Turbo Inline-3",
+                                          "horsepower": 140,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "15 km/l"
+                                        },
+                                        "color": "Black, Grey, White",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/bmw-1series.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "A-Class",
+                                        "year": 2021,
+                                        "price": {
+                                          "msrp": 4000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.3L Turbo Inline-4",
+                                          "horsepower": 163,
+                                          "fuelType": "Petrol",
+                                          "transmission": "Automatic",
+                                          "mileage": "14 km/l"
+                                        },
+                                        "color": "Black, Silver, Red, White",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/mercedes-aclass.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "C200",
+                                        "year": 2020,
+                                        "price": {
+                                          "msrp": 5500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.5L Turbo Inline-4",
+                                          "horsepower": 184,
+                                          "fuelType": "Petrol",
+                                          "transmission": "9G-Tronic Automatic",
+                                          "mileage": "15 km/l"
+                                        },
+                                        "color": "Black, Silver, White, Blue",
+                                        "bodyStyle": "Sedan",
+                                        "images": [
+                                          "https://example.com/mercedes-c200.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "E300",
+                                        "year": 2021,
+                                        "price": {
+                                          "msrp": 8000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.0L Turbo Inline-4",
+                                          "horsepower": 258,
+                                          "fuelType": "Petrol",
+                                          "transmission": "9G-Tronic Automatic",
+                                          "mileage": "13 km/l"
+                                        },
+                                        "color": "Black, White, Silver",
+                                        "bodyStyle": "Sedan",
+                                        "images": [
+                                          "https://example.com/mercedes-e300.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "GLA 200",
+                                        "year": 2022,
+                                        "price": {
+                                          "msrp": 6500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.3L Turbo Inline-4",
+                                          "horsepower": 163,
+                                          "fuelType": "Petrol",
+                                          "transmission": "7G-DCT Automatic",
+                                          "mileage": "14 km/l"
+                                        },
+                                        "color": "Black, White, Red",
+                                        "bodyStyle": "SUV",
+                                        "images": [
+                                          "https://example.com/mercedes-gla200.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "GLE 350d",
+                                        "year": 2022,
+                                        "price": {
+                                          "msrp": 12000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.9L Turbo Diesel Inline-6",
+                                          "horsepower": 272,
+                                          "fuelType": "Diesel",
+                                          "transmission": "9G-Tronic Automatic",
+                                          "mileage": "11 km/l"
+                                        },
+                                        "color": "Black, White, Silver, Grey",
+                                        "bodyStyle": "SUV",
+                                        "images": [
+                                          "https://example.com/mercedes-gle350d.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "S500",
+                                        "year": 2023,
+                                        "price": {
+                                          "msrp": 20000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "3.0L Turbo Inline-6",
+                                          "horsepower": 435,
+                                          "fuelType": "Petrol",
+                                          "transmission": "9G-Tronic Automatic",
+                                          "mileage": "10 km/l"
+                                        },
+                                        "color": "Black, White, Silver",
+                                        "bodyStyle": "Luxury Sedan",
+                                        "images": [
+                                          "https://example.com/mercedes-s500.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "G-Class G63 AMG",
+                                        "year": 2023,
+                                        "price": {
+                                          "msrp": 35000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "4.0L V8 Biturbo",
+                                          "horsepower": 577,
+                                          "fuelType": "Petrol",
+                                          "transmission": "9G-Tronic Automatic",
+                                          "mileage": "7 km/l"
+                                        },
+                                        "color": "Black, White, Green, Red",
+                                        "bodyStyle": "Luxury SUV",
+                                        "images": [
+                                          "https://example.com/mercedes-g63.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "A180",
+                                        "year": 2021,
+                                        "price": {
+                                          "msrp": 4500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.3L Turbo Inline-4",
+                                          "horsepower": 136,
+                                          "fuelType": "Petrol",
+                                          "transmission": "7G-DCT Automatic",
+                                          "mileage": "16 km/l"
+                                        },
+                                        "color": "Black, White, Silver, Red",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/mercedes-a180.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "A200",
+                                        "year": 2022,
+                                        "price": {
+                                          "msrp": 5200000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.3L Turbo Inline-4",
+                                          "horsepower": 163,
+                                          "fuelType": "Petrol",
+                                          "transmission": "7G-DCT Automatic",
+                                          "mileage": "15 km/l"
+                                        },
+                                        "color": "Black, White, Blue",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/mercedes-a200.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "A250 AMG Line",
+                                        "year": 2023,
+                                        "price": {
+                                          "msrp": 6800000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.0L Turbo Inline-4",
+                                          "horsepower": 224,
+                                          "fuelType": "Petrol",
+                                          "transmission": "8G-DCT Automatic",
+                                          "mileage": "14 km/l"
+                                        },
+                                        "color": "Black, White, Grey",
+                                        "bodyStyle": "Hatchback",
+                                        "images": [
+                                          "https://example.com/mercedes-a250.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "C180",
+                                        "year": 2021,
+                                        "price": {
+                                          "msrp": 5300000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.5L Turbo Inline-4",
+                                          "horsepower": 156,
+                                          "fuelType": "Petrol",
+                                          "transmission": "9G-Tronic Automatic",
+                                          "mileage": "15 km/l"
+                                        },
+                                        "color": "Black, White, Silver",
+                                        "bodyStyle": "Sedan",
+                                        "images": [
+                                          "https://example.com/mercedes-c180.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "C200",
+                                        "year": 2022,
+                                        "price": {
+                                          "msrp": 5800000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "1.5L Turbo Inline-4",
+                                          "horsepower": 184,
+                                          "fuelType": "Petrol",
+                                          "transmission": "9G-Tronic Automatic",
+                                          "mileage": "14 km/l"
+                                        },
+                                        "color": "Black, White, Blue, Silver",
+                                        "bodyStyle": "Sedan",
+                                        "images": [
+                                          "https://example.com/mercedes-c200.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "C300",
+                                        "year": 2023,
+                                        "price": {
+                                          "msrp": 7000000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.0L Turbo Inline-4",
+                                          "horsepower": 255,
+                                          "fuelType": "Petrol",
+                                          "transmission": "9G-Tronic Automatic",
+                                          "mileage": "13 km/l"
+                                        },
+                                        "color": "Black, White, Grey",
+                                        "bodyStyle": "Sedan",
+                                        "images": [
+                                          "https://example.com/mercedes-c300.jpg"
+                                        ],
+                                        "availability": true
+                                      },
+                                      {
+                                        "make": "Mercedes-Benz",
+                                        "model": "C43 AMG",
+                                        "year": 2023,
+                                        "price": {
+                                          "msrp": 11500000,
+                                          "currency": "KES"
+                                        },
+                                        "specifications": {
+                                          "engine": "2.0L Turbo Hybrid Inline-4",
+                                          "horsepower": 402,
+                                          "fuelType": "Petrol",
+                                          "transmission": "9G-Tronic Automatic",
+                                          "mileage": "11 km/l"
+                                        },
+                                        "color": "Black, White, Red",
+                                        "bodyStyle": "Sedan",
+                                        "images": [
+                                          "https://example.com/mercedes-c43.jpg"
+                                        ],
+                                        "availability": true
+                                      }
+                        ]                                  
 }
     

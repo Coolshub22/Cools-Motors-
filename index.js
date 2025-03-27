@@ -47,3 +47,28 @@ function showCarDetails(car) {
          <p><strong>Body Style:</strong>${car.bodyStyle}</p>`
 }
 
+function carSearch(cars) {
+    const searchBox = document.getElementById("search-box");
+
+    searchBox.addEventListener("input", () => {
+        const searchValue = searchBox.value.toLowerCase();
+
+        const filteredCars = cars.filter(car => 
+            car.make.toLowerCase().includes(searchValue) ||
+            car.model.toLowerCase().includes(searchValue) ||
+            car.year.toString().includes(searchValue)
+        );
+        displayCars(filteredCars);
+    });
+}
+
+function bookingDropdown(cars) {
+    const carSelect = document.getElementById("car-select");
+
+    cars.forEach(car => {
+        const option = document.createElement("option");
+        option.value = car.make + " " + car.model;
+        option.innerText = car.make + " " + car.model;
+        carSelect.appendChild(option);
+    });
+}

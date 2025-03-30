@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 1.8em;
+    font-size: 2.2em;
     margin:0px;
 }
 
@@ -208,10 +208,11 @@ button:hover {
     margin: auto;
 }
 
-.footer-section {
+.welcome-section {
     flex: 1;
     margin: 20px;
     min-width: 250px;
+    align-items: center;
 }
 
 .footer-section h2, 
@@ -248,7 +249,7 @@ button:hover {
     display:grid ;
     margin-right: 10px;
     color: #F4845F;
-    font-size: 20px;
+    font-size: 14px;
     transition: color 0.3s ease;
     text-decoration: none;
 }

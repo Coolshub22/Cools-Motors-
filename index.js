@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
     .then(data => {
         console.log("Data loaded:", data);
         showCars(data.cars);
-        carSearch(data.cars); // Ensure carSearch is invoked
-        bookingDropdown(data.cars); // Ensure bookingDropdown is invoked
+        carSearch(data.cars); 
+        bookingDropdown(data.cars);
     })
     .catch(error => console.error("Error loading car data: ", error));
 
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const carList = document.getElementById("car-list");
 
-    // Attach event listener to the parent container for dynamic delegation
+    
     carList.addEventListener("click", function(event) {
         if (event.target.classList.contains("details-btn")) {
             console.log("View Details clicked!");
@@ -104,18 +104,18 @@ function carSearch(cars) {
 
         if (searchValue === "") {
             searchStatus.innerText = "";
-            showCars(cars); // Show all cars when search is cleared
+            showCars(cars); 
             return;
         }
 
-        // Filter cars based on search
+        
         const filteredCars = cars.filter(car => 
             car.make.toLowerCase().includes(searchValue) ||
             car.model.toLowerCase().includes(searchValue) ||
             car.year.toString().includes(searchValue)
         );
 
-        // Show search term being used
+       
         searchStatus.innerHTML = `<strong>Showing results for:</strong> "${searchBox.value}"`;
 
         if (filteredCars.length === 0) {
@@ -138,7 +138,7 @@ function bookingDropdown(cars) {
 
     console.log("Booking dropdown function invoked with cars:", cars);
 
-    carSelect.innerHTML = ""; // Clear existing options
+    carSelect.innerHTML = ""; 
 
     if (!cars || cars.length === 0) {
         console.warn("No cars available to populate the dropdown.");

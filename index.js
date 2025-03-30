@@ -91,29 +91,36 @@ function showCarDetails(car) {
 
 function carSearch(cars) {
     const searchBox = document.getElementById("search-box");
+    const searchStatus = document.getElementById("search-status");
+    const carGallery = document.getElementById("car-list");
 
-    if (!searchBox) {
-        console.error("Search box not found! Ensure an element with ID 'search-box' exists in the HTML.");
+    if (!searchBox || !searchStatus || !carGallery) {
+        console.error("Search elements not found!");
         return;
     }
 
-    console.log("Search box found. Initializing search functionality...");
-
     searchBox.addEventListener("input", () => {
-        console.log("Search triggered:", searchBox.value);
         const searchValue = searchBox.value.toLowerCase().trim();
 
+        if (searchValue === "") {
+            searchStatus.innerText = "";
+            showCars(cars); // Show all cars when search is cleared
+            return;
+        }
+
+        // Filter cars based on search
         const filteredCars = cars.filter(car => 
             car.make.toLowerCase().includes(searchValue) ||
             car.model.toLowerCase().includes(searchValue) ||
             car.year.toString().includes(searchValue)
         );
 
-        if (filteredCars.length === 0) {
-            console.log("No cars match the search criteria.");
-        }
+        // Show search term being used
+        searchStatus.innerHTML = `<strong>Showing results for:</strong> "${searchBox.value}"`;
 
-        console.log("Raw data from db.json:", data);
+        if (filteredCars.length === 0) {
+            searchStatus.innerHTML = `<strong>🚗 No cars found for:</strong> "${searchBox.value}"`;
+        }
 
         showCars(filteredCars);
     });

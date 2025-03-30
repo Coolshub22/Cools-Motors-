@@ -167,6 +167,7 @@ button:hover {
     display: block;
     width: 100%;
     margin: 10px 0;
+    height: 35px;
 }
 
 #booking-form button {
@@ -176,8 +177,80 @@ button:hover {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    height: 35px;
 }
 
 #booking-form button:hover {
     background-color: var(--hover-bg);
+}
+
+.footer {
+    background: #D8EAE6;
+    color: #F4845F;
+    padding: 40px 0;
+    font-family: Arial, sans-serif;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.footer-section {
+    flex: 1;
+    margin: 20px;
+    min-width: 250px;
+}
+
+.footer-section h2, 
+.footer-section h3 {
+    color: #F4845F;
+}
+
+.footer-section p, 
+.footer-section ul {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 8px;
+}
+
+.footer-section ul li a {
+    text-decoration: none;
+    color: #F4845F;
+    transition: color 0.3s ease;
+}
+
+.footer-section ul li a:hover {
+    color: #F4845F;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #fff;
+    font-size: 20px;
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #F4845F;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding: 10px 0;
+    background:#D8EAE6 ;
+    margin-top: 20px;
+    font-size: 20px;
 }

@@ -44,14 +44,24 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function showCars(cars) {
+    if (!Array.isArray(cars)) {
+        console.error("Invalid car data received:", cars);
+        return;
+    }
+
     const carGallery = document.getElementById("car-list");
     carGallery.innerHTML = "";
 
     cars.forEach(car => {
+        if (!car || !car.make || !car.model) {
+            console.error("Invalid car object:", car);
+            return;
+        }
+
         const carCard = document.createElement("div");
         carCard.classList.add("car-card");
 
-        const carImage = car.images.length > 0 ? car.images[0] : "placeholder.jpg";
+        const carImage = car.images && car.images.length > 0 ? car.images[0] : "placeholder.jpg";
 
         carCard.innerHTML = `
          <img src="${carImage}" alt="${car.make} ${car.model}">
@@ -64,6 +74,7 @@ function showCars(cars) {
 
     console.log("Car list updated.");
 }
+
 
 function showCarDetails(car) {
     const detailsContainer = document.getElementById("details-container");
@@ -82,11 +93,14 @@ function carSearch(cars) {
     const searchBox = document.getElementById("search-box");
 
     if (!searchBox) {
-        console.error("Search box not found!");
+        console.error("Search box not found! Ensure an element with ID 'search-box' exists in the HTML.");
         return;
     }
 
+    console.log("Search box found. Initializing search functionality...");
+
     searchBox.addEventListener("input", () => {
+        console.log("Search triggered:", searchBox.value);
         const searchValue = searchBox.value.toLowerCase().trim();
 
         const filteredCars = cars.filter(car => 
@@ -99,6 +113,8 @@ function carSearch(cars) {
             console.log("No cars match the search criteria.");
         }
 
+        console.log("Raw data from db.json:", data);
+
         showCars(filteredCars);
     });
 
@@ -109,13 +125,16 @@ function bookingDropdown(cars) {
     const carSelect = document.getElementById("car-select");
 
     if (!carSelect) {
-        console.error("Car select dropdown not found!");
+        console.error("Car select dropdown not found! Ensure an element with ID 'car-select' exists in the HTML.");
         return;
     }
 
-    carSelect.innerHTML = "";
+    console.log("Booking dropdown function invoked with cars:", cars);
 
-    if (cars.length === 0) {
+    carSelect.innerHTML = ""; // Clear existing options
+
+    if (!cars || cars.length === 0) {
+        console.warn("No cars available to populate the dropdown.");
         const noCarsOption = document.createElement("option");
         noCarsOption.value = "";
         noCarsOption.innerText = "No cars available";
@@ -124,13 +143,18 @@ function bookingDropdown(cars) {
     }
 
     cars.forEach(car => {
+        if (!car.make || !car.model) {
+            console.warn("Car data is missing 'make' or 'model':", car);
+            return;
+        }
+
         const option = document.createElement("option");
-        option.value = car.make + " " + car.model;
-        option.innerText = car.make + " " + car.model;
+        option.value = `${car.make} ${car.model}`;
+        option.innerText = `${car.make} ${car.model}`;
         carSelect.appendChild(option);
     });
 
-    console.log("Booking dropdown updated.");
+    console.log("Booking dropdown updated with available cars.");
 }
 
 
